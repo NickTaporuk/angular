@@ -31,8 +31,14 @@ app.controller('MainController',['$scope','AlertService',
         $scope.name = 'Guest';
         $scope.users = {
             name:'Nick',
-            surname:"Taporuk"
-        }
+            surname:"Taporuk",
+            company:"Slavpeople"
+        };
+        $scope.john = {
+            name:'John',
+            surname:"Doodle",
+            company:'hh'
+        };
 
         $scope.Funct = function(){
             logger.log('Hello')
@@ -56,12 +62,18 @@ app.filter('decorator',function(){
     }
 });
 
-app.directive('ditMyDirective', function () {
+app.directive('ditMyDirective', ['$window',function (win) {
     return {
         restrict:"AE",
         scope:{
-            userInfo:'=user'
+            user:'='
         },
-        template:"<b>{{userInfo.name}}</b><i>{{userInfo.surname}}</i>"
+        //template:"<b>{{user.name}}</b><i>{{user.surname}}</i>",
+        templateUrl:"user.html",
+        link:function(scope,el,attr){
+            el.on('click',function(){
+                win.alert(scope.user.company);
+            });
+        }
     }
-});
+}]);
