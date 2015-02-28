@@ -11,5 +11,10 @@
     Name:<input type="text" ng-model="name"/>
     Hello,{{name}}
     <input type="button" value="Click Me" ng-click="Funct()" name="" id=""/>
+
+    <div class="ctr1" ng-controller="Controller2">{{data.someData}}</div>
+    <div class="ctr1" ng-controller="Controller3">
+        <input type="button" value="Change Data" ng-click="changeData()"/>
+    </div>
 </body>
 </html>

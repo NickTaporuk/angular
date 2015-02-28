@@ -19,6 +19,12 @@ app.factory('AlertService',['$window',function($window){
     }
 }]);
 
+app.factory('sharedData',function(){
+    return {
+        someData:'Tests'
+    }
+});
+
 //app.controller('MainController',['$scope','LogService','AlertService',
 app.controller('MainController',['$scope','AlertService',
     function($scope,logger,alert){
@@ -30,4 +36,12 @@ app.controller('MainController',['$scope','AlertService',
     }
 ]);
 
+app.controller('Controller2',['$scope','sharedData', function ($scope,sharedData) {
+        $scope.data = sharedData;
+}]);
 
+app.controller('Controller3',['$scope','sharedData', function ($scope,sharedData) {
+        $scope.changeData = function(){
+            sharedData.someData = 'DataChanged !!!'
+        };
+}]);
