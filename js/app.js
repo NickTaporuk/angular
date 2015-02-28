@@ -29,6 +29,10 @@ app.factory('sharedData',function(){
 app.controller('MainController',['$scope','AlertService',
     function($scope,logger,alert){
         $scope.name = 'Guest';
+        $scope.users = {
+            name:'Nick',
+            surname:"Taporuk"
+        }
 
         $scope.Funct = function(){
             logger.log('Hello')
@@ -52,16 +56,12 @@ app.filter('decorator',function(){
     }
 });
 
-app.directive('ditMyDirective', function factory() {
-    var directiveDefinitionObject = {
-
-            compile
-    :
-    function compile(tElement, tAttrs, transclude) {
-
-        return function (scope, element, attrs) {
-        }
+app.directive('ditMyDirective', function () {
+    return {
+        restrict:"AE",
+        scope:{
+            userInfo:'=user'
+        },
+        template:"<b>{{userInfo.name}}</b><i>{{userInfo.surname}}</i>"
     }
-};
-return directiveDefinitionObject;
-})
+});
