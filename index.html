@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html ng-app="myApp">
+<html ng-app="myApp" class="ng-scope">
 <head lang="en">
     <meta charset="UTF-8">
     <title>Angular</title>
     <script type="application/javascript" src="/js/angular.js"></script>
+    <script type="application/javascript" src="/js/app.js"></script>
 </head>
-<body ng-controller="MainController">
+<body ng-controller="MainController" class="ng-scope ng-binding">
     Name:<input type="text" ng-model="name"/>
     Name:<input type="text" ng-model="name"/>
     Hello,{{name}}
+    <input type="button" value="Click Me" ng-click="Funct()" name="" id=""/>
 </body>
 </html>
