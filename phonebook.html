@@ -18,6 +18,16 @@
                 <span class="input-group-addon">SEARCH</span>
                 <input class="form-control" type="text" name="" id="" ng-model="query"/>
             </div>
+
+            <!--.btn-group.pull-right>(button.btn.btn-default>span.glyphicon.glyphicon-th-large)+(button[ng-class="{active:view=='table'}"].btn.btn-default>span.glyphicon.glyphicon-th-large)-->
+            <div class="btn-group pull-right">
+                <button class="btn btn-default" ng-click="view='list'">
+                    <span class="glyphicon glyphicon-th-large"></span>
+                </button>
+                <button ng-class="{active:view=='table'}" ng-click="view='table'" class="btn btn-default">
+                    <span class="glyphicon glyphicon-th-list"></span>
+                </button>
+            </div>
         </div>
     </div>
 

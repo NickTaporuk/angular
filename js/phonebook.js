@@ -6,6 +6,7 @@ var app = angular.module('phonebook', []);
 app.controller('PhoneBookController',['$scope','DataService', function (scope,DataService) {
     scope.persons = DataService.list();
     scope.view = 'list';
+    //scope.view = 'table';
 }]);
 
 app.directive('pbPersonCar', ['$window',function (win) {
@@ -17,6 +18,7 @@ app.directive('pbPersonCar', ['$window',function (win) {
         }
     };
 }]);
+
 app.service('DataService', [function () {
     function list(){
         return [
