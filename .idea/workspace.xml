@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09cbd707-7be9-4390-aeab-285a9576dc51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonebook.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/phonebook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonebook.html" afterPath="$PROJECT_DIR$/phonebook.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/phonebook.js" afterPath="$PROJECT_DIR$/js/phonebook.js" />
     </list>
     <ignored path="angular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,31 +69,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phonebook.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="phonebook.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonebook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="780">
-              <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
+            <state vertical-scroll-proportion="0.44680852" vertical-offset="0" max-vertical-offset="924">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phonebook.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phonebook.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/phonebook.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9086294" vertical-offset="309" max-vertical-offset="1437">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1437">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
-                <element signature="e#171#1146#0" expanded="true" />
-                <element signature="e#181#301#0" expanded="true" />
-                <element signature="e#311#447#0" expanded="true" />
-                <element signature="e#457#593#0" expanded="true" />
-                <element signature="e#603#750#0" expanded="true" />
-                <element signature="e#760#880#0" expanded="true" />
-                <element signature="e#890#1010#0" expanded="true" />
-                <element signature="e#1020#1140#0" expanded="true" />
+                <element signature="e#340#476#0" expanded="true" />
+                <element signature="e#486#622#0" expanded="true" />
+                <element signature="e#632#779#0" expanded="true" />
+                <element signature="e#789#909#0" expanded="true" />
+                <element signature="e#919#1039#0" expanded="true" />
+                <element signature="e#1049#1169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -336,10 +329,10 @@
         <option value="$PROJECT_DIR$/nginx/angular.conf" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/user.html" />
-        <option value="$PROJECT_DIR$/phonebook.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data.json" />
         <option value="$PROJECT_DIR$/js/phonebook.js" />
+        <option value="$PROJECT_DIR$/phonebook.html" />
       </list>
     </option>
   </component>
@@ -1180,14 +1173,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="780">
-          <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="960">
@@ -1206,19 +1191,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/phonebook.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9086294" vertical-offset="309" max-vertical-offset="1437">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1437">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
-            <element signature="e#171#1146#0" expanded="true" />
-            <element signature="e#181#301#0" expanded="true" />
-            <element signature="e#311#447#0" expanded="true" />
-            <element signature="e#457#593#0" expanded="true" />
-            <element signature="e#603#750#0" expanded="true" />
-            <element signature="e#760#880#0" expanded="true" />
-            <element signature="e#890#1010#0" expanded="true" />
-            <element signature="e#1020#1140#0" expanded="true" />
+            <element signature="e#340#476#0" expanded="true" />
+            <element signature="e#486#622#0" expanded="true" />
+            <element signature="e#632#779#0" expanded="true" />
+            <element signature="e#789#909#0" expanded="true" />
+            <element signature="e#919#1039#0" expanded="true" />
+            <element signature="e#1049#1169#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44680852" vertical-offset="0" max-vertical-offset="924">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>

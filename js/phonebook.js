@@ -8,44 +8,44 @@ app.controller('PhoneBookController',['$scope', function (scope) {
         {
             "name":"Nick",
             "surname":"Taporuk",
-            "company":"",
-            "photo":""
+            "company":"The Best Company",
+            "phone":"+380979720325"
         },
         {
             "name":"Amg",
             "surname":"Mersedes",
             "company":"Mersedes",
-            "photo":"Mersedes"
+            "phone":"Mersedes"
         },
         {
             "name":"SLC",
             "surname":"Mersedes",
             "company":"Mersedes",
-            "photo":"Mersedes"
+            "phone":"Mersedes"
         },
         {
             "name":"QuatroPorte",
             "surname":"Masseraty",
             "company":"Masseraty",
-            "photo":"Masseraty"
+            "phone":"Masseraty"
         },
         {
             "name":"M3",
             "surname":"BMW",
             "company":"BMW",
-            "photo":"BMW"
+            "phone":"BMW"
         },
         {
             "name":"M5",
             "surname":"BMW",
             "company":"BMW",
-            "photo":"BMW"
+            "phone":"BMW"
         },
         {
             "name":"M7",
             "surname":"BMW",
             "company":"BMW",
-            "photo":"BMW"
+            "phone":"BMW"
         }
-    ]
+    ];
 }]);

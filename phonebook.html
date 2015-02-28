@@ -5,10 +5,18 @@
     <title>Phonebook</title>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"/>
     <script type="application/javascript" src="/js/angular.js"></script>
-    <script type="application/javascript" src="/js/app.js"></script>
+    <script type="application/javascript" src="/js/phonebook.js"></script>
 
 </head>
 <body ng-app="phonebook">
+<div class="controllerPhone" ng-controller="PhoneBookController">
+    <input type="text" name="" id="" ng-model="query"/>
+    <ul>
+        <li ng-repeat="person in persons | filter:query">
+            {{person.name}} ---{{person.phone}}
+        </li>
+    </ul>
+</div>
 
 </body>
 </html>
