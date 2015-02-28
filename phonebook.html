@@ -9,13 +9,42 @@
 
 </head>
 <body ng-app="phonebook">
-<div class="controllerPhone" ng-controller="PhoneBookController">
-    <input type="text" name="" id="" ng-model="query"/>
-    <ul>
-        <li ng-repeat="person in persons | filter:query">
-            {{person.name}} ---{{person.phone}}
-        </li>
-    </ul>
+<div class="controllerPhone container"
+     ng-controller="PhoneBookController"
+     ng-switch="view" >
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="input-group">
+                <span class="input-group-addon">SEARCH</span>
+                <input class="form-control" type="text" name="" id="" ng-model="query"/>
+            </div>
+        </div>
+    </div>
+
+    <div ng-switch-when="list">
+        <pb-person-car ng-repeat="person in persons | filter:query" person="person"></pb-person-car>
+    </div>
+    <div ng-switch-when="table">
+        <!--table>(thead>tr>th*4)+(tbody>tr[ng-repeat="person in persons | filter:query" person="person"]>td*4)-->
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Company</th>
+                    <th>Phone</th>
+                </tr>
+                </thead>
+            <tbody>
+                <tr ng-repeat="person in persons | filter:query" person="person">
+                    <td>{{$index+1}}</td>
+                    <td>{{person.name}}</td>
+                    <td>{{person.company}}</td>
+                    <td>{{person.phone}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 </body>
