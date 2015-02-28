@@ -45,3 +45,23 @@ app.controller('Controller3',['$scope','sharedData', function ($scope,sharedData
             sharedData.someData = 'DataChanged !!!'
         };
 }]);
+
+app.filter('decorator',function(){
+    return function(input,sym,bol){
+        return sym+" "+input+" "+bol;
+    }
+});
+
+app.directive('ditMyDirective', function factory() {
+    var directiveDefinitionObject = {
+
+            compile
+    :
+    function compile(tElement, tAttrs, transclude) {
+
+        return function (scope, element, attrs) {
+        }
+    }
+};
+return directiveDefinitionObject;
+})

@@ -4,7 +4,6 @@
     <list default="true" id="09cbd707-7be9-4390-aeab-285a9576dc51" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="888">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="924">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -41,8 +40,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84771574" vertical-offset="255" max-vertical-offset="1383">
-              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.57360405" vertical-offset="597" max-vertical-offset="1725">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
                 <element signature="e#127#232#0" expanded="true" />
@@ -51,6 +50,8 @@
                 <element signature="e#468#500#0" expanded="true" />
                 <element signature="e#611#788#0" expanded="true" />
                 <element signature="e#821#912#0" expanded="true" />
+                <element signature="e#945#1105#0" expanded="true" />
+                <element signature="e#1318#1468#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1106,16 +1107,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="888">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="924">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84771574" vertical-offset="255" max-vertical-offset="1383">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.57360405" vertical-offset="597" max-vertical-offset="1725">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#127#232#0" expanded="true" />
@@ -1124,6 +1125,8 @@
             <element signature="e#468#500#0" expanded="true" />
             <element signature="e#611#788#0" expanded="true" />
             <element signature="e#821#912#0" expanded="true" />
+            <element signature="e#945#1105#0" expanded="true" />
+            <element signature="e#1318#1468#0" expanded="true" />
           </folding>
         </state>
       </provider>
