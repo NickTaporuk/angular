@@ -5,699 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09cbd707-7be9-4390-aeab-285a9576dc51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/09-chat2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/100-coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/18-envelope.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/19-gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/21-skull.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/30-key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/34-coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/88-beermug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/action-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/action-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/action-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/action-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/theme-classic/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-af.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-ag.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-bb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-bk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-hc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-k.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-mg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-ok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-p.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-rh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-ws.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/album-xx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/alert-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/alert-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/alert-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/alert-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/apple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-d-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-d-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-d-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-d-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-d-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-d-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-d-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-d-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-u-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-u-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-u-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-u-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-u-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-u-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-u-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-u-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/arrow-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/arrow-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/audio-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/audio-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/audio-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/audio-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/back-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/back-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/back-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/back-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/bars-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/bars-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/bars-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/bars-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/bg-pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/bike.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/blackberry_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/bmw-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/bmw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/buenosaires.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/bullets-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/bullets-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/bullets-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/bullets-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/calendar-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/calendar-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/calendar-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/calendar-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/camera-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/camera-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/camera-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/camera-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/capetown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/carat-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/carat-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/check-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/check-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/check-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/check-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/clock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/clock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/clock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/clock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/cloud-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/cloud-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/cloud-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/cloud-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/comment-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/comment-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/comment-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/comment-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/de.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/delete-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/delete-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/delete-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/delete-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/devices.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/edit-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/edit-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/edit-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/edit-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/eye-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/eye-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/eye-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/eye-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/fi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/firefox-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/firefox_os.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/forbidden-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/forbidden-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/forbidden-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/forbidden-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/forward-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/forward-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/forward-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/forward-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/galaxy_express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/gb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/gear-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/gear-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/gear-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/gear-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/gf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/grid-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/grid-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/grid-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/grid-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/heart-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/heart-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/heart-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/heart-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/home-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/home-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/home-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/home-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/info-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/info-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/info-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/info-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/jquery-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/landrover-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/landrover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/location-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/location-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/location-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/location-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/lock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/lock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/lock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/lock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/lumia_800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/mail-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/mail-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/mail-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/mail-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/minus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/minus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/minus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/minus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/navigation-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/navigation-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/navigation-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/navigation-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/newyork.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/nexus_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/paris.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/phone-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/phone-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/phone-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/phone-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/phone_galaxy3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/phone_iphone5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/phone_lumia920.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/phone_onex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/photo-landscape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/photo-portrait.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/photo-run.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/plus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/plus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/plus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/plus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/power-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/power-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/power-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/power-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/recycle-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/recycle-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/recycle-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/recycle-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/refresh-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/refresh-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/refresh-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/refresh-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/search-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/search-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/search-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/search-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/seoul.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/shop-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/shop-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/shop-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/shop-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/star-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/star-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/star-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/star-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/sydney.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/tag-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/tag-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/tag-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/tag-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/tesla-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/tesla.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/tizen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/us.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/user-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/user-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/user-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/user-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/video-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/video-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-png/video-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-png/video-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/js/collections/CategoriesCollection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/js/models/CategoryModel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/js/views/CategoryView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/img/glyphish-icons/Read me first - license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/action-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/action-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/action-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/action-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/tabs/ajax-content-ignore.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/alert-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/alert-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/alert-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/alert-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/alertevents-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/alertevents-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/alertevents-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/alertevents-3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/alertevents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/alertevents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-d-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-d-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-d-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-d-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-d-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-d-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-d-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-d-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-d-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-d-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-d-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-d-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-u-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-u-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-u-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-u-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-u-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-u-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-u-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-u-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-u-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-u-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/arrow-u-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/arrow-u-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/audio-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/audio-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/audio-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/audio-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autodividers-linkbar/autodividers-linkbar-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autodividers-linkbar/autodividers-linkbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autodividers-linkbar/autodividers-linkbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/back-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/back-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/back-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/back-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/backbone-require.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/bars-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/bars-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/bars-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/bars-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/buenosaires.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/bullets-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/bullets-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/bullets-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/bullets-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/calendar-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/calendar-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/calendar-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/calendar-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/camera-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/camera-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/camera-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/camera-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/capetown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-d-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-d-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-d-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-d-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-l-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-l-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-r-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-r-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-u-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-u-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/carat-u-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/carat-u-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/check-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/check-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/check-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/check-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/clock-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/clock-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/clock-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/clock-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/cloud-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/cloud-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/cloud-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/cloud-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/comment-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/comment-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/comment-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/comment-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/controls-in-header-footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/delete-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/delete-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/delete-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/delete-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-alt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-corners.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-noclosebtn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-overlay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-rightclosebtn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-success.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog-with-select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/disabling-a-button-does-not-work.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/docs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/docs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/dom-ready-not-working.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/edit-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/edit-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/edit-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/edit-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/eye-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/eye-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/eye-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/eye-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/forms-field-contain/fieldcontain-hide-label-deprecated.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/forbidden-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/forbidden-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/forbidden-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/forbidden-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/forward-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/forward-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/forward-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/forward-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/gear-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/gear-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/gear-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/gear-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/grid-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/grid-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/grid-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/grid-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/js/h2widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/heart-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/heart-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/heart-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/heart-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/home-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/home-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/home-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/home-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-can-i-stop-auto-enhancement-of-a-block-of-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-can-i-stop-auto-enhancement-of-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-configure-phonegap-cordova.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-do-i-control-page-titles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-do-i-load-a-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-do-i-scroll-to-a-position.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-do-i-turn-off-url-hiding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-do-i-use-touch-mouse-events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/how-does-theming-work.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_search/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/body-bar-classes/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/button/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/button-markup/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/checkboxradio-checkbox/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/checkboxradio-radio/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/collapsible/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/collapsible-dynamic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/collapsibleset/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/controlgroup/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/controlgroup-dynamic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/datepicker/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/filterable/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/flipswitch/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/forms/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/forms-disabled/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/forms-field-contain/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/forms-gallery/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/forms-label-hidden-accessible/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/grids/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/grids-buttons/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/grids-custom-responsive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/icons/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/icons-grunticon/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/intro/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autocomplete/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autocomplete-remote/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autodividers-linkbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-autodividers-selector/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-collapsible-item-flat/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-collapsible-item-indented/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-grid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-nested-lists/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/loader/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/map-geolocation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/map-list-toggle/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation-hash-processing/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation-linking-pages/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation-php-redirect/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-dialog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-multi-page/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages-single-page/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-external/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-external-internal/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-fixed/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-responsive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-styling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-swipe-open/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-alignment/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-arrow-size/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-dynamic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-iframe/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-image-scaling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-outside-multipage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/rangeslider/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/rwd/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/selectmenu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/selectmenu-custom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/selectmenu-custom-filter/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/slider/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/slider-flipswitch/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/slider-tooltip/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-list/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-column-toggle/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-column-toggle-example/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-column-toggle-heading-groups/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-column-toggle-options/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-reflow/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-reflow-heading-groups/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-reflow-stripes-strokes/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/table-reflow-styling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/tabs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/textinput/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/theme-classic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/theme-default/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-dynamic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-external/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-external/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-forms/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-fullscreen/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent-optimized/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/transitions/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-external/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/info-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/info-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/info-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/info-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/injected-content-is-not-enhanced.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/jqm-contents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/jqm-contents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/css/jqm-demos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/js/jqm-demos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/jqm-navmenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/jqm-navmenu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/jqm-search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/jqm-search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/map-list-toggle/jquery.gmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile-1.4.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.mobile-1.4.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.mobile-1.4.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile-1.4.5.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.mobile-1.4.5.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.external-png-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.external-png-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.icons-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.icons-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile.icons-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.inline-png-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.inline-png-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.inline-svg-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.inline-svg-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.structure-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.structure-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile.structure-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.theme-1.4.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/jquery.mobile.theme-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/jquery.mobile.theme-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-grid/listview-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/listview-grid/listview-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/location-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/location-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/location-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/location-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/lock-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/lock-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/lock-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/lock-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/logevents-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/logevents-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/logevents-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/logevents-3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/logevents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/page-events/logevents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/mail-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/mail-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/mail-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/mail-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-iframe/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/minus-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/minus-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/minus-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/minus-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/backbone-requirejs/js/routers/mobileRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/my-html-5-inputs-look-different-in-browsers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/my-range-search-input-type-is-being-changed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/navigation-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/navigation-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/navigation-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/navigation-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/newyork.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-external/page-b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-external-internal/page-b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent/page-b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent-optimized/page-b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/panel-external-internal/page-c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent/page-c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent-optimized/page-c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent/page-d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/toolbar-fixed-persistent-optimized/page-d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/transitions/page-transitions-dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/transitions/page-transitions-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/paris.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/pass-query-params-to-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/pass-via-the-hash-to-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/phone-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/phone-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/phone-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/phone-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/plus-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/plus-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/plus-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/plus-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-iframe/popup-iframe-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-iframe/popup-iframe-video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-image-scaling/popup-image-scaling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/popup-alignment/popup.alignment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/power-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/power-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/power-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/power-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/recycle-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/recycle-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/recycle-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/recycle-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation-php-redirect/redirect-target.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation-php-redirect/redirect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/refresh-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/refresh-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/refresh-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/refresh-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages/samepagetransition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/scripts-and-styles-not-loading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/search-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/search-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/search-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/search-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/seoul.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/shop-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/shop-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/shop-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/shop-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/map-list-toggle/showMore.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/sometimes-custom-select-shows-as-dialog-popup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/navigation-php-redirect/source.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/star-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/star-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/star-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/star-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/pages/startpage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/swipe-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/swipe-page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/swipe-page/sydney.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/tabs/tabbed-content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/tag-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/tag-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/tag-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/tag-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/the-application-cache-is-not-working.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/theme-classic/theme-classic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/triggering-create-on-injected-content-does-not-work.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/updating-the-value-of-enhanced-form-elements-does-not-work.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/user-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/user-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/user-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/user-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/video-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/video-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/video-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/images/icons-svg/video-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/_assets/js/view-source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/why-is-only-the-first-page-loaded.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5/demos/old-faq-pages/why-wont-my-css-styles-apply-correctly-to-a-widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json/products.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/taimi.min.js" afterPath="$PROJECT_DIR$/js/taimi.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular.iws" />
@@ -725,8 +37,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.925926" vertical-offset="56" max-vertical-offset="960">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state vertical-scroll-proportion="-2.6666667" vertical-offset="18" max-vertical-offset="1068">
+              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.mobile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/jquery.mobile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="63380">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -735,7 +57,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1116" max-vertical-offset="1422">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1046" max-vertical-offset="1959">
               <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
@@ -769,7 +91,7 @@
       <file leaf-file-name="phonebook.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonebook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.074074" vertical-offset="7" max-vertical-offset="1613">
+            <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1116">
               <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
               <folding />
             </state>
@@ -779,7 +101,7 @@
       <file leaf-file-name="phonebook.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/phonebook.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815">
+            <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1278">
               <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
@@ -805,7 +127,7 @@
       <file leaf-file-name="persons-car.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/persons-car.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="713">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="true" />
@@ -814,211 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/angular.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5220" max-vertical-offset="112664">
-              <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#9591#9676#0" expanded="true" />
-                <element signature="e#9720#9809#0" expanded="true" />
-                <element signature="e#9897#10145#0" expanded="true" />
-                <element signature="e#11144#11345#0" expanded="true" />
-                <element signature="e#13511#14497#0" expanded="true" />
-                <element signature="e#14644#15406#0" expanded="true" />
-                <element signature="e#15588#18071#0" expanded="true" />
-                <element signature="e#15710#17058#0" expanded="true" />
-                <element signature="e#17139#18059#0" expanded="true" />
-                <element signature="e#24011#24419#0" expanded="true" />
-                <element signature="e#27813#28264#0" expanded="true" />
-                <element signature="e#28350#29234#0" expanded="true" />
-                <element signature="e#28374#29224#0" expanded="true" />
-                <element signature="e#28516#28615#0" expanded="true" />
-                <element signature="e#29764#31035#0" expanded="true" />
-                <element signature="e#31083#31313#0" expanded="true" />
-                <element signature="e#35535#35652#0" expanded="true" />
-                <element signature="e#36258#37767#0" expanded="true" />
-                <element signature="e#38161#38238#0" expanded="true" />
-                <element signature="e#39036#39889#0" expanded="true" />
-                <element signature="e#40456#67464#0" expanded="true" />
-                <element signature="e#48706#48874#0" expanded="true" />
-                <element signature="e#54532#54758#0" expanded="true" />
-                <element signature="e#55990#56094#0" expanded="true" />
-                <element signature="e#57258#57452#0" expanded="true" />
-                <element signature="e#59938#60556#0" expanded="true" />
-                <element signature="e#61591#62500#0" expanded="true" />
-                <element signature="e#61690#62452#0" expanded="true" />
-                <element signature="e#64170#66583#0" expanded="true" />
-                <element signature="e#68303#69388#0" expanded="true" />
-                <element signature="e#69436#69506#0" expanded="true" />
-                <element signature="e#69554#69683#0" expanded="true" />
-                <element signature="e#70758#71217#0" expanded="true" />
-                <element signature="e#70815#70991#0" expanded="true" />
-                <element signature="e#71002#71145#0" expanded="true" />
-                <element signature="e#71388#77295#0" expanded="true" />
-                <element signature="e#72194#72365#0" expanded="true" />
-                <element signature="e#72829#73245#0" expanded="true" />
-                <element signature="e#74599#74803#0" expanded="true" />
-                <element signature="e#77042#77152#0" expanded="true" />
-                <element signature="e#77406#77539#0" expanded="true" />
-                <element signature="e#80543#83775#0" expanded="true" />
-                <element signature="e#82986#83421#0" expanded="true" />
-                <element signature="e#83823#84790#0" expanded="true" />
-                <element signature="e#84871#86771#0" expanded="true" />
-                <element signature="e#84934#85800#0" expanded="true" />
-                <element signature="e#85040#85743#0" expanded="true" />
-                <element signature="e#85041#85384#0" expanded="true" />
-                <element signature="e#85386#85742#0" expanded="true" />
-                <element signature="e#85836#86643#0" expanded="true" />
-                <element signature="e#91255#94197#0" expanded="true" />
-                <element signature="e#94373#95590#0" expanded="true" />
-                <element signature="e#95285#95579#0" expanded="true" />
-                <element signature="e#98930#103461#0" expanded="true" />
-                <element signature="e#103509#103684#0" expanded="true" />
-                <element signature="e#103732#103876#0" expanded="true" />
-                <element signature="e#105270#105925#0" expanded="true" />
-                <element signature="e#105949#107444#0" expanded="true" />
-                <element signature="e#109193#109788#0" expanded="true" />
-                <element signature="e#110022#123212#0" expanded="true" />
-                <element signature="e#111292#123067#0" expanded="true" />
-                <element signature="e#116937#117168#0" expanded="true" />
-                <element signature="e#121014#121333#0" expanded="true" />
-                <element signature="e#122067#122272#0" expanded="true" />
-                <element signature="e#124683#127217#0" expanded="true" />
-                <element signature="e#125737#127206#0" expanded="true" />
-                <element signature="e#127410#128602#0" expanded="true" />
-                <element signature="e#128650#129953#0" expanded="true" />
-                <element signature="e#129484#129942#0" expanded="true" />
-                <element signature="e#130001#130763#0" expanded="true" />
-                <element signature="e#130811#132091#0" expanded="true" />
-                <element signature="e#130891#132080#0" expanded="true" />
-                <element signature="e#132151#133138#0" expanded="true" />
-                <element signature="e#133272#133671#0" expanded="true" />
-                <element signature="e#134203#134333#0" expanded="true" />
-                <element signature="e#144654#145002#0" expanded="true" />
-                <element signature="e#147662#147972#0" expanded="true" />
-                <element signature="e#150583#153180#0" expanded="true" />
-                <element signature="e#151345#153169#0" expanded="true" />
-                <element signature="e#155457#155592#0" expanded="true" />
-                <element signature="e#155796#155879#0" expanded="true" />
-                <element signature="e#156063#156418#0" expanded="true" />
-                <element signature="e#156558#157161#0" expanded="true" />
-                <element signature="e#157622#159571#0" expanded="true" />
-                <element signature="e#160306#164280#0" expanded="true" />
-                <element signature="e#163557#164080#0" expanded="true" />
-                <element signature="e#164649#164949#0" expanded="true" />
-                <element signature="e#165882#170659#0" expanded="true" />
-                <element signature="e#166387#170652#0" expanded="true" />
-                <element signature="e#167889#170641#0" expanded="true" />
-                <element signature="e#169546#169641#0" expanded="true" />
-                <element signature="e#170896#170940#0" expanded="true" />
-                <element signature="e#171032#171093#0" expanded="true" />
-                <element signature="e#171129#172544#0" expanded="true" />
-                <element signature="e#173003#173221#0" expanded="true" />
-                <element signature="e#173432#174882#0" expanded="true" />
-                <element signature="e#175028#179004#0" expanded="true" />
-                <element signature="e#175472#175546#0" expanded="true" />
-                <element signature="e#175774#175894#0" expanded="true" />
-                <element signature="e#179230#188913#0" expanded="true" />
-                <element signature="e#181739#181843#0" expanded="true" />
-                <element signature="e#186018#186224#0" expanded="true" />
-                <element signature="e#186519#186746#0" expanded="true" />
-                <element signature="e#188997#189120#0" expanded="true" />
-                <element signature="e#189308#190249#0" expanded="true" />
-                <element signature="e#190465#190937#0" expanded="true" />
-                <element signature="e#191100#191374#0" expanded="true" />
-                <element signature="e#191484#191915#0" expanded="true" />
-                <element signature="e#192062#192551#0" expanded="true" />
-                <element signature="e#192583#192768#0" expanded="true" />
-                <element signature="e#192896#194765#0" expanded="true" />
-                <element signature="e#192947#194750#0" expanded="true" />
-                <element signature="e#193134#194710#0" expanded="true" />
-                <element signature="e#195339#199984#0" expanded="true" />
-                <element signature="e#195504#195540#0" expanded="true" />
-                <element signature="e#199991#200343#0" expanded="true" />
-                <element signature="e#200080#200332#0" expanded="true" />
-                <element signature="e#200142#200318#0" expanded="true" />
-                <element signature="e#200410#200877#0" expanded="true" />
-                <element signature="e#200894#201392#0" expanded="true" />
-                <element signature="e#200941#201381#0" expanded="true" />
-                <element signature="e#201399#201978#0" expanded="true" />
-                <element signature="e#201465#201967#0" expanded="true" />
-                <element signature="e#201985#202703#0" expanded="true" />
-                <element signature="e#202072#202688#0" expanded="true" />
-                <element signature="e#202713#202932#0" expanded="true" />
-                <element signature="e#202999#203163#0" expanded="true" />
-                <element signature="e#203171#203274#0" expanded="true" />
-                <element signature="e#203535#204097#0" expanded="true" />
-                <element signature="e#203597#204086#0" expanded="true" />
-                <element signature="e#204119#205055#0" expanded="true" />
-                <element signature="e#204166#205044#0" expanded="true" />
-                <element signature="e#205062#207271#0" expanded="true" />
-                <element signature="e#205179#207256#0" expanded="true" />
-                <element signature="e#207278#207711#0" expanded="true" />
-                <element signature="e#207325#207700#0" expanded="true" />
-                <element signature="e#207729#207957#0" expanded="true" />
-                <element signature="e#207804#207933#0" expanded="true" />
-                <element signature="e#207998#208845#0" expanded="true" />
-                <element signature="e#208985#217027#0" expanded="true" />
-                <element signature="e#210721#210952#0" expanded="true" />
-                <element signature="e#217034#218524#0" expanded="true" />
-                <element signature="e#217083#218513#0" expanded="true" />
-                <element signature="e#217386#218481#0" expanded="true" />
-                <element signature="e#218594#219125#0" expanded="true" />
-                <element signature="e#218639#219111#0" expanded="true" />
-                <element signature="e#219182#220364#0" expanded="true" />
-                <element signature="e#219300#220353#0" expanded="true" />
-                <element signature="e#220371#224917#0" expanded="true" />
-                <element signature="e#220786#224906#0" expanded="true" />
-                <element signature="e#224924#225274#0" expanded="true" />
-                <element signature="e#224971#225263#0" expanded="true" />
-                <element signature="e#225281#225631#0" expanded="true" />
-                <element signature="e#225328#225620#0" expanded="true" />
-                <element signature="e#225939#227549#0" expanded="true" />
-                <element signature="e#225986#227538#0" expanded="true" />
-                <element signature="e#226053#226132#0" expanded="true" />
-                <element signature="e#227559#227921#0" expanded="true" />
-                <element signature="e#227932#228301#0" expanded="true" />
-                <element signature="e#228191#228276#0" expanded="true" />
-                <element signature="e#228312#228579#0" expanded="true" />
-                <element signature="e#228587#228831#0" expanded="true" />
-                <element signature="e#228640#228820#0" expanded="true" />
-                <element signature="e#228899#240130#0" expanded="true" />
-                <element signature="e#229221#240119#0" expanded="true" />
-                <element signature="e#229331#230704#0" expanded="true" />
-                <element signature="e#234845#235004#0" expanded="true" />
-                <element signature="e#235298#235457#0" expanded="true" />
-                <element signature="e#236233#236471#0" expanded="true" />
-                <element signature="e#237498#237607#0" expanded="true" />
-                <element signature="e#237499#237606#0" expanded="true" />
-                <element signature="e#237500#237605#0" expanded="true" />
-                <element signature="e#240137#241188#0" expanded="true" />
-                <element signature="e#240241#241177#0" expanded="true" />
-                <element signature="e#241268#241652#0" expanded="true" />
-                <element signature="e#241710#242444#0" expanded="true" />
-                <element signature="e#242494#243087#0" expanded="true" />
-                <element signature="e#243137#243674#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="taimi.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/taimi.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="38914" max-vertical-offset="40016">
-              <caret line="2191" column="4" selection-start-line="2191" selection-start-column="4" selection-end-line="2191" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="39089" max-vertical-offset="40070">
+              <caret line="2194" column="4" selection-start-line="2194" selection-start-column="4" selection-end-line="2194" selection-end-column="4" />
               <folding>
                 <element signature="e#404#597#0" expanded="true" />
                 <element signature="e#614#837#0" expanded="true" />
@@ -1205,15 +327,15 @@
                 <element signature="e#104344#104725#0" expanded="true" />
                 <element signature="e#104755#104897#0" expanded="true" />
                 <element signature="e#104791#104894#0" expanded="true" />
-                <element signature="e#105111#107886#0" expanded="true" />
-                <element signature="e#107947#109199#0" expanded="true" />
-                <element signature="e#109267#111493#0" expanded="true" />
+                <element signature="e#105127#107902#0" expanded="true" />
+                <element signature="e#107963#109215#0" expanded="true" />
+                <element signature="e#109283#111509#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="78824">
@@ -1234,14 +356,15 @@
         <option value="$PROJECT_DIR$/js/angular.min.js" />
         <option value="$PROJECT_DIR$/nginx/angular.conf" />
         <option value="$PROJECT_DIR$/user.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data.json" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/partial/persons-car.html" />
         <option value="$PROJECT_DIR$/partials/persons-car.html" />
         <option value="$PROJECT_DIR$/js/phonebook.js" />
         <option value="$PROJECT_DIR$/phonebook.html" />
+        <option value="$PROJECT_DIR$/json/products.json" />
         <option value="$PROJECT_DIR$/js/taimi.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -1276,6 +399,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1318,67 +442,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery.mobile-1.4.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery.mobile-1.4.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery.mobile-1.4.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icons-svg" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1390,14 +473,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -1405,10 +493,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1469,26 +553,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.49919486" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.49919486" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.50080514" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -1515,6 +599,487 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="450">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1116" max-vertical-offset="1422">
+          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#127#232#0" expanded="true" />
+            <element signature="e#265#416#0" expanded="true" />
+            <element signature="e#306#413#0" expanded="true" />
+            <element signature="e#468#500#0" expanded="true" />
+            <element signature="e#611#1028#0" expanded="true" />
+            <element signature="e#726#826#0" expanded="true" />
+            <element signature="e#850#941#0" expanded="true" />
+            <element signature="e#1061#1152#0" expanded="true" />
+            <element signature="e#1185#1345#0" expanded="true" />
+            <element signature="e#1501#1869#0" expanded="true" />
+            <element signature="e#1540#1866#0" expanded="true" />
+            <element signature="e#1579#1611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="36">
+          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1116">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/phonebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1278">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#121#272#0" expanded="true" />
+            <element signature="e#305#477#0" expanded="true" />
+            <element signature="e#344#473#0" expanded="true" />
+            <element signature="e#432#467#0" expanded="true" />
+            <element signature="e#508#1783#0" expanded="true" />
+            <element signature="e#559#1735#0" expanded="true" />
+            <element signature="e#573#742#0" expanded="true" />
+            <element signature="e#756#912#0" expanded="true" />
+            <element signature="e#926#1082#0" expanded="true" />
+            <element signature="e#1096#1263#0" expanded="true" />
+            <element signature="e#1277#1417#0" expanded="true" />
+            <element signature="e#1431#1571#0" expanded="true" />
+            <element signature="e#1585#1725#0" expanded="true" />
+            <element signature="e#1754#1779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/persons-car.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5364" max-vertical-offset="112140">
+          <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#9591#9676#0" expanded="true" />
+            <element signature="e#9720#9809#0" expanded="true" />
+            <element signature="e#9897#10145#0" expanded="true" />
+            <element signature="e#11144#11345#0" expanded="true" />
+            <element signature="e#13511#14497#0" expanded="true" />
+            <element signature="e#14644#15406#0" expanded="true" />
+            <element signature="e#15588#18071#0" expanded="true" />
+            <element signature="e#15710#17058#0" expanded="true" />
+            <element signature="e#17139#18059#0" expanded="true" />
+            <element signature="e#24011#24419#0" expanded="true" />
+            <element signature="e#27813#28264#0" expanded="true" />
+            <element signature="e#28350#29234#0" expanded="true" />
+            <element signature="e#28374#29224#0" expanded="true" />
+            <element signature="e#28516#28615#0" expanded="true" />
+            <element signature="e#29764#31035#0" expanded="true" />
+            <element signature="e#31083#31313#0" expanded="true" />
+            <element signature="e#35535#35652#0" expanded="true" />
+            <element signature="e#36258#37767#0" expanded="true" />
+            <element signature="e#38161#38238#0" expanded="true" />
+            <element signature="e#39036#39889#0" expanded="true" />
+            <element signature="e#40456#67464#0" expanded="true" />
+            <element signature="e#48706#48874#0" expanded="true" />
+            <element signature="e#54532#54758#0" expanded="true" />
+            <element signature="e#55990#56094#0" expanded="true" />
+            <element signature="e#57258#57452#0" expanded="true" />
+            <element signature="e#59938#60556#0" expanded="true" />
+            <element signature="e#61591#62500#0" expanded="true" />
+            <element signature="e#61690#62452#0" expanded="true" />
+            <element signature="e#64170#66583#0" expanded="true" />
+            <element signature="e#68303#69388#0" expanded="true" />
+            <element signature="e#69436#69506#0" expanded="true" />
+            <element signature="e#69554#69683#0" expanded="true" />
+            <element signature="e#70758#71217#0" expanded="true" />
+            <element signature="e#70815#70991#0" expanded="true" />
+            <element signature="e#71002#71145#0" expanded="true" />
+            <element signature="e#71388#77295#0" expanded="true" />
+            <element signature="e#72194#72365#0" expanded="true" />
+            <element signature="e#72829#73245#0" expanded="true" />
+            <element signature="e#74599#74803#0" expanded="true" />
+            <element signature="e#77042#77152#0" expanded="true" />
+            <element signature="e#77406#77539#0" expanded="true" />
+            <element signature="e#80543#83775#0" expanded="true" />
+            <element signature="e#82986#83421#0" expanded="true" />
+            <element signature="e#83823#84790#0" expanded="true" />
+            <element signature="e#84871#86771#0" expanded="true" />
+            <element signature="e#84934#85800#0" expanded="true" />
+            <element signature="e#85040#85743#0" expanded="true" />
+            <element signature="e#85041#85384#0" expanded="true" />
+            <element signature="e#85386#85742#0" expanded="true" />
+            <element signature="e#85836#86643#0" expanded="true" />
+            <element signature="e#91255#94197#0" expanded="true" />
+            <element signature="e#94373#95590#0" expanded="true" />
+            <element signature="e#95285#95579#0" expanded="true" />
+            <element signature="e#98930#103461#0" expanded="true" />
+            <element signature="e#103509#103684#0" expanded="true" />
+            <element signature="e#103732#103876#0" expanded="true" />
+            <element signature="e#105270#105925#0" expanded="true" />
+            <element signature="e#105949#107444#0" expanded="true" />
+            <element signature="e#109193#109788#0" expanded="true" />
+            <element signature="e#110022#123212#0" expanded="true" />
+            <element signature="e#111292#123067#0" expanded="true" />
+            <element signature="e#116937#117168#0" expanded="true" />
+            <element signature="e#121014#121333#0" expanded="true" />
+            <element signature="e#122067#122272#0" expanded="true" />
+            <element signature="e#124683#127217#0" expanded="true" />
+            <element signature="e#125737#127206#0" expanded="true" />
+            <element signature="e#127410#128602#0" expanded="true" />
+            <element signature="e#128650#129953#0" expanded="true" />
+            <element signature="e#129484#129942#0" expanded="true" />
+            <element signature="e#130001#130763#0" expanded="true" />
+            <element signature="e#130811#132091#0" expanded="true" />
+            <element signature="e#130891#132080#0" expanded="true" />
+            <element signature="e#132151#133138#0" expanded="true" />
+            <element signature="e#133272#133671#0" expanded="true" />
+            <element signature="e#134203#134333#0" expanded="true" />
+            <element signature="e#144654#145002#0" expanded="true" />
+            <element signature="e#147662#147972#0" expanded="true" />
+            <element signature="e#150583#153180#0" expanded="true" />
+            <element signature="e#151345#153169#0" expanded="true" />
+            <element signature="e#155457#155592#0" expanded="true" />
+            <element signature="e#155796#155879#0" expanded="true" />
+            <element signature="e#156063#156418#0" expanded="true" />
+            <element signature="e#156558#157161#0" expanded="true" />
+            <element signature="e#157622#159571#0" expanded="true" />
+            <element signature="e#160306#164280#0" expanded="true" />
+            <element signature="e#163557#164080#0" expanded="true" />
+            <element signature="e#164649#164949#0" expanded="true" />
+            <element signature="e#165882#170659#0" expanded="true" />
+            <element signature="e#166387#170652#0" expanded="true" />
+            <element signature="e#167889#170641#0" expanded="true" />
+            <element signature="e#169546#169641#0" expanded="true" />
+            <element signature="e#170896#170940#0" expanded="true" />
+            <element signature="e#171032#171093#0" expanded="true" />
+            <element signature="e#171129#172544#0" expanded="true" />
+            <element signature="e#173003#173221#0" expanded="true" />
+            <element signature="e#173432#174882#0" expanded="true" />
+            <element signature="e#175028#179004#0" expanded="true" />
+            <element signature="e#175472#175546#0" expanded="true" />
+            <element signature="e#175774#175894#0" expanded="true" />
+            <element signature="e#179230#188913#0" expanded="true" />
+            <element signature="e#181739#181843#0" expanded="true" />
+            <element signature="e#186018#186224#0" expanded="true" />
+            <element signature="e#186519#186746#0" expanded="true" />
+            <element signature="e#188997#189120#0" expanded="true" />
+            <element signature="e#189308#190249#0" expanded="true" />
+            <element signature="e#190465#190937#0" expanded="true" />
+            <element signature="e#191100#191374#0" expanded="true" />
+            <element signature="e#191484#191915#0" expanded="true" />
+            <element signature="e#192062#192551#0" expanded="true" />
+            <element signature="e#192583#192768#0" expanded="true" />
+            <element signature="e#192896#194765#0" expanded="true" />
+            <element signature="e#192947#194750#0" expanded="true" />
+            <element signature="e#193134#194710#0" expanded="true" />
+            <element signature="e#195339#199984#0" expanded="true" />
+            <element signature="e#195504#195540#0" expanded="true" />
+            <element signature="e#199991#200343#0" expanded="true" />
+            <element signature="e#200080#200332#0" expanded="true" />
+            <element signature="e#200142#200318#0" expanded="true" />
+            <element signature="e#200410#200877#0" expanded="true" />
+            <element signature="e#200894#201392#0" expanded="true" />
+            <element signature="e#200941#201381#0" expanded="true" />
+            <element signature="e#201399#201978#0" expanded="true" />
+            <element signature="e#201465#201967#0" expanded="true" />
+            <element signature="e#201985#202703#0" expanded="true" />
+            <element signature="e#202072#202688#0" expanded="true" />
+            <element signature="e#202713#202932#0" expanded="true" />
+            <element signature="e#202999#203163#0" expanded="true" />
+            <element signature="e#203171#203274#0" expanded="true" />
+            <element signature="e#203535#204097#0" expanded="true" />
+            <element signature="e#203597#204086#0" expanded="true" />
+            <element signature="e#204119#205055#0" expanded="true" />
+            <element signature="e#204166#205044#0" expanded="true" />
+            <element signature="e#205062#207271#0" expanded="true" />
+            <element signature="e#205179#207256#0" expanded="true" />
+            <element signature="e#207278#207711#0" expanded="true" />
+            <element signature="e#207325#207700#0" expanded="true" />
+            <element signature="e#207729#207957#0" expanded="true" />
+            <element signature="e#207804#207933#0" expanded="true" />
+            <element signature="e#207998#208845#0" expanded="true" />
+            <element signature="e#208985#217027#0" expanded="true" />
+            <element signature="e#210721#210952#0" expanded="true" />
+            <element signature="e#217034#218524#0" expanded="true" />
+            <element signature="e#217083#218513#0" expanded="true" />
+            <element signature="e#217386#218481#0" expanded="true" />
+            <element signature="e#218594#219125#0" expanded="true" />
+            <element signature="e#218639#219111#0" expanded="true" />
+            <element signature="e#219182#220364#0" expanded="true" />
+            <element signature="e#219300#220353#0" expanded="true" />
+            <element signature="e#220371#224917#0" expanded="true" />
+            <element signature="e#220786#224906#0" expanded="true" />
+            <element signature="e#224924#225274#0" expanded="true" />
+            <element signature="e#224971#225263#0" expanded="true" />
+            <element signature="e#225281#225631#0" expanded="true" />
+            <element signature="e#225328#225620#0" expanded="true" />
+            <element signature="e#225939#227549#0" expanded="true" />
+            <element signature="e#225986#227538#0" expanded="true" />
+            <element signature="e#226053#226132#0" expanded="true" />
+            <element signature="e#227559#227921#0" expanded="true" />
+            <element signature="e#227932#228301#0" expanded="true" />
+            <element signature="e#228191#228276#0" expanded="true" />
+            <element signature="e#228312#228579#0" expanded="true" />
+            <element signature="e#228587#228831#0" expanded="true" />
+            <element signature="e#228640#228820#0" expanded="true" />
+            <element signature="e#228899#240130#0" expanded="true" />
+            <element signature="e#229221#240119#0" expanded="true" />
+            <element signature="e#229331#230704#0" expanded="true" />
+            <element signature="e#234845#235004#0" expanded="true" />
+            <element signature="e#235298#235457#0" expanded="true" />
+            <element signature="e#236233#236471#0" expanded="true" />
+            <element signature="e#237498#237607#0" expanded="true" />
+            <element signature="e#237499#237606#0" expanded="true" />
+            <element signature="e#237500#237605#0" expanded="true" />
+            <element signature="e#240137#241188#0" expanded="true" />
+            <element signature="e#240241#241177#0" expanded="true" />
+            <element signature="e#241268#241652#0" expanded="true" />
+            <element signature="e#241710#242444#0" expanded="true" />
+            <element signature="e#242494#243087#0" expanded="true" />
+            <element signature="e#243137#243674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/taimi.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="39438" max-vertical-offset="39492">
+          <caret line="2191" column="4" selection-start-line="2191" selection-start-column="4" selection-end-line="2191" selection-end-column="4" />
+          <folding>
+            <element signature="e#404#597#0" expanded="true" />
+            <element signature="e#614#837#0" expanded="true" />
+            <element signature="e#700#833#0" expanded="true" />
+            <element signature="e#851#1257#0" expanded="true" />
+            <element signature="e#932#1213#0" expanded="true" />
+            <element signature="e#986#1206#0" expanded="true" />
+            <element signature="e#1268#1360#0" expanded="true" />
+            <element signature="e#1371#1568#0" expanded="true" />
+            <element signature="e#1579#1774#0" expanded="true" />
+            <element signature="e#1785#2492#0" expanded="true" />
+            <element signature="e#2013#2248#0" expanded="true" />
+            <element signature="e#2314#2437#0" expanded="true" />
+            <element signature="e#2503#3062#0" expanded="true" />
+            <element signature="e#3091#4737#0" expanded="true" />
+            <element signature="e#4771#5413#0" expanded="true" />
+            <element signature="e#5444#8540#0" expanded="true" />
+            <element signature="e#7085#7182#0" expanded="true" />
+            <element signature="e#7802#8189#0" expanded="true" />
+            <element signature="e#8572#11955#0" expanded="true" />
+            <element signature="e#9187#9418#0" expanded="true" />
+            <element signature="e#11370#11638#0" expanded="true" />
+            <element signature="e#11647#11882#0" expanded="true" />
+            <element signature="e#11986#16786#0" expanded="true" />
+            <element signature="e#13702#13830#0" expanded="true" />
+            <element signature="e#13703#13761#0" expanded="true" />
+            <element signature="e#13763#13829#0" expanded="true" />
+            <element signature="e#14099#14203#0" expanded="true" />
+            <element signature="e#15546#15616#0" expanded="true" />
+            <element signature="e#16820#18310#0" expanded="true" />
+            <element signature="e#16916#17042#0" expanded="true" />
+            <element signature="e#17257#17395#0" expanded="true" />
+            <element signature="e#18160#18262#0" expanded="true" />
+            <element signature="e#18344#22121#0" expanded="true" />
+            <element signature="e#22155#22504#0" expanded="true" />
+            <element signature="e#22541#28254#0" expanded="true" />
+            <element signature="e#24768#25117#0" expanded="true" />
+            <element signature="e#25391#25524#0" expanded="true" />
+            <element signature="e#28059#28166#0" expanded="true" />
+            <element signature="e#28288#30044#0" expanded="true" />
+            <element signature="e#30077#33511#0" expanded="true" />
+            <element signature="e#32222#32399#0" expanded="true" />
+            <element signature="e#33547#34167#0" expanded="true" />
+            <element signature="e#33621#34164#0" expanded="true" />
+            <element signature="e#34201#35240#0" expanded="true" />
+            <element signature="e#34306#35237#0" expanded="true" />
+            <element signature="e#35055#35220#0" expanded="true" />
+            <element signature="e#35271#35649#0" expanded="true" />
+            <element signature="e#35311#35646#0" expanded="true" />
+            <element signature="e#35679#35814#0" expanded="true" />
+            <element signature="e#35705#35811#0" expanded="true" />
+            <element signature="e#35844#36484#0" expanded="true" />
+            <element signature="e#35870#36481#0" expanded="true" />
+            <element signature="e#36516#37310#0" expanded="true" />
+            <element signature="e#37234#37307#0" expanded="true" />
+            <element signature="e#37339#38400#0" expanded="true" />
+            <element signature="e#37379#38397#0" expanded="true" />
+            <element signature="e#38426#38671#0" expanded="true" />
+            <element signature="e#38703#43439#0" expanded="true" />
+            <element signature="e#39626#39772#0" expanded="true" />
+            <element signature="e#40441#41708#0" expanded="true" />
+            <element signature="e#40476#40541#0" expanded="true" />
+            <element signature="e#40578#40661#0" expanded="true" />
+            <element signature="e#40747#40828#0" expanded="true" />
+            <element signature="e#40882#40950#0" expanded="true" />
+            <element signature="e#41004#41070#0" expanded="true" />
+            <element signature="e#41122#41188#0" expanded="true" />
+            <element signature="e#41242#41309#0" expanded="true" />
+            <element signature="e#41362#41446#0" expanded="true" />
+            <element signature="e#41484#41569#0" expanded="true" />
+            <element signature="e#41624#41707#0" expanded="true" />
+            <element signature="e#41714#42724#0" expanded="true" />
+            <element signature="e#41778#41889#0" expanded="true" />
+            <element signature="e#41779#41842#0" expanded="true" />
+            <element signature="e#41891#42000#0" expanded="true" />
+            <element signature="e#41922#41999#0" expanded="true" />
+            <element signature="e#42078#42191#0" expanded="true" />
+            <element signature="e#42079#42143#0" expanded="true" />
+            <element signature="e#42193#42302#0" expanded="true" />
+            <element signature="e#42224#42301#0" expanded="true" />
+            <element signature="e#42383#42495#0" expanded="true" />
+            <element signature="e#42384#42447#0" expanded="true" />
+            <element signature="e#42497#42608#0" expanded="true" />
+            <element signature="e#42529#42607#0" expanded="true" />
+            <element signature="e#42610#42723#0" expanded="true" />
+            <element signature="e#42643#42722#0" expanded="true" />
+            <element signature="e#43499#44058#0" expanded="true" />
+            <element signature="e#44092#45208#0" expanded="true" />
+            <element signature="e#44171#45205#0" expanded="true" />
+            <element signature="e#45239#46384#0" expanded="true" />
+            <element signature="e#45265#46381#0" expanded="true" />
+            <element signature="e#46413#47432#0" expanded="true" />
+            <element signature="e#47465#50984#0" expanded="true" />
+            <element signature="e#47529#50981#0" expanded="true" />
+            <element signature="e#51025#54007#0" expanded="true" />
+            <element signature="e#51177#54004#0" expanded="true" />
+            <element signature="e#51332#53016#0" expanded="true" />
+            <element signature="e#53745#53902#0" expanded="true" />
+            <element signature="e#54267#56910#0" expanded="true" />
+            <element signature="e#54718#55122#0" expanded="true" />
+            <element signature="e#55741#56891#0" expanded="true" />
+            <element signature="e#55742#55880#0" expanded="true" />
+            <element signature="e#55882#56026#0" expanded="true" />
+            <element signature="e#56028#56188#0" expanded="true" />
+            <element signature="e#56190#56336#0" expanded="true" />
+            <element signature="e#56392#56537#0" expanded="true" />
+            <element signature="e#56539#56672#0" expanded="true" />
+            <element signature="e#56753#56890#0" expanded="true" />
+            <element signature="e#56943#60356#0" expanded="true" />
+            <element signature="e#57029#59850#0" expanded="true" />
+            <element signature="e#60388#61289#0" expanded="true" />
+            <element signature="e#60433#61286#0" expanded="true" />
+            <element signature="e#61321#64428#0" expanded="true" />
+            <element signature="e#61432#64425#0" expanded="true" />
+            <element signature="e#61560#61762#0" expanded="true" />
+            <element signature="e#63752#63908#0" expanded="true" />
+            <element signature="e#63917#64073#0" expanded="true" />
+            <element signature="e#64082#64237#0" expanded="true" />
+            <element signature="e#64246#64408#0" expanded="true" />
+            <element signature="e#64483#64835#0" expanded="true" />
+            <element signature="e#65026#65464#0" expanded="true" />
+            <element signature="e#65491#66284#0" expanded="true" />
+            <element signature="e#66318#67294#0" expanded="true" />
+            <element signature="e#66370#67291#0" expanded="true" />
+            <element signature="e#67322#67999#0" expanded="true" />
+            <element signature="e#67356#67996#0" expanded="true" />
+            <element signature="e#68032#69876#0" expanded="true" />
+            <element signature="e#68094#69873#0" expanded="true" />
+            <element signature="e#70583#70737#0" expanded="true" />
+            <element signature="e#70765#70831#0" expanded="true" />
+            <element signature="e#70860#70973#0" expanded="true" />
+            <element signature="e#72278#73128#0" expanded="true" />
+            <element signature="e#72673#73111#0" expanded="true" />
+            <element signature="e#73220#73308#0" expanded="true" />
+            <element signature="e#73347#74597#0" expanded="true" />
+            <element signature="e#73693#74594#0" expanded="true" />
+            <element signature="e#74432#74564#0" expanded="true" />
+            <element signature="e#75245#75314#0" expanded="true" />
+            <element signature="e#75355#77527#0" expanded="true" />
+            <element signature="e#76419#76530#0" expanded="true" />
+            <element signature="e#76553#76666#0" expanded="true" />
+            <element signature="e#76691#76817#0" expanded="true" />
+            <element signature="e#76840#76977#0" expanded="true" />
+            <element signature="e#76997#77114#0" expanded="true" />
+            <element signature="e#77150#77239#0" expanded="true" />
+            <element signature="e#77408#77488#0" expanded="true" />
+            <element signature="e#79372#79448#0" expanded="true" />
+            <element signature="e#79398#79445#0" expanded="true" />
+            <element signature="e#79473#80047#0" expanded="true" />
+            <element signature="e#79623#80044#0" expanded="true" />
+            <element signature="e#80069#80436#0" expanded="true" />
+            <element signature="e#80105#80433#0" expanded="true" />
+            <element signature="e#80464#81312#0" expanded="true" />
+            <element signature="e#80500#81309#0" expanded="true" />
+            <element signature="e#81336#81705#0" expanded="true" />
+            <element signature="e#81388#81702#0" expanded="true" />
+            <element signature="e#81732#89229#0" expanded="true" />
+            <element signature="e#81880#89226#0" expanded="true" />
+            <element signature="e#84661#84884#0" expanded="true" />
+            <element signature="e#89252#91217#0" expanded="true" />
+            <element signature="e#89303#91214#0" expanded="true" />
+            <element signature="e#91249#93110#0" expanded="true" />
+            <element signature="e#91370#93107#0" expanded="true" />
+            <element signature="e#92294#92525#0" expanded="true" />
+            <element signature="e#93134#94113#0" expanded="true" />
+            <element signature="e#93186#94110#0" expanded="true" />
+            <element signature="e#94136#96082#0" expanded="true" />
+            <element signature="e#94189#96079#0" expanded="true" />
+            <element signature="e#96108#96438#0" expanded="true" />
+            <element signature="e#96209#96352#0" expanded="true" />
+            <element signature="e#96460#98747#0" expanded="true" />
+            <element signature="e#96486#98744#0" expanded="true" />
+            <element signature="e#98768#101052#0" expanded="true" />
+            <element signature="e#98801#101049#0" expanded="true" />
+            <element signature="e#101084#101266#0" expanded="true" />
+            <element signature="e#101294#102291#0" expanded="true" />
+            <element signature="e#101335#102288#0" expanded="true" />
+            <element signature="e#101780#101976#0" expanded="true" />
+            <element signature="e#102074#102271#0" expanded="true" />
+            <element signature="e#102316#104265#0" expanded="true" />
+            <element signature="e#102378#104114#0" expanded="true" />
+            <element signature="e#103120#103251#0" expanded="true" />
+            <element signature="e#104292#104728#0" expanded="true" />
+            <element signature="e#104344#104725#0" expanded="true" />
+            <element signature="e#104755#104897#0" expanded="true" />
+            <element signature="e#104791#104894#0" expanded="true" />
+            <element signature="e#105127#107902#0" expanded="true" />
+            <element signature="e#107963#109215#0" expanded="true" />
+            <element signature="e#109283#111509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="78300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="450">
@@ -1607,7 +1172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="108">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1899,7 +1463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="108">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2111,7 +1674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="108">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2511,7 +2073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2531,50 +2092,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="813" max-vertical-offset="1959">
-          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-            <element signature="e#127#232#0" expanded="true" />
-            <element signature="e#265#416#0" expanded="true" />
-            <element signature="e#306#413#0" expanded="true" />
-            <element signature="e#468#500#0" expanded="true" />
-            <element signature="e#611#1028#0" expanded="true" />
-            <element signature="e#726#826#0" expanded="true" />
-            <element signature="e#850#941#0" expanded="true" />
-            <element signature="e#1061#1152#0" expanded="true" />
-            <element signature="e#1185#1345#0" expanded="true" />
-            <element signature="e#1501#1869#0" expanded="true" />
-            <element signature="e#1540#1866#0" expanded="true" />
-            <element signature="e#1579#1611#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
           <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/persons-car.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="713">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.925926" vertical-offset="56" max-vertical-offset="960">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -2605,9 +2126,222 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phonebook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.074074" vertical-offset="7" max-vertical-offset="1613">
+        <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1116">
           <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.555555" vertical-offset="5862" max-vertical-offset="6923">
+          <caret line="355" column="1" selection-start-line="355" selection-start-column="1" selection-end-line="355" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="78824">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/taimi.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="39089" max-vertical-offset="40070">
+          <caret line="2194" column="4" selection-start-line="2194" selection-start-column="4" selection-end-line="2194" selection-end-column="4" />
+          <folding>
+            <element signature="e#404#597#0" expanded="true" />
+            <element signature="e#614#837#0" expanded="true" />
+            <element signature="e#700#833#0" expanded="true" />
+            <element signature="e#851#1257#0" expanded="true" />
+            <element signature="e#932#1213#0" expanded="true" />
+            <element signature="e#986#1206#0" expanded="true" />
+            <element signature="e#1268#1360#0" expanded="true" />
+            <element signature="e#1371#1568#0" expanded="true" />
+            <element signature="e#1579#1774#0" expanded="true" />
+            <element signature="e#1785#2492#0" expanded="true" />
+            <element signature="e#2013#2248#0" expanded="true" />
+            <element signature="e#2314#2437#0" expanded="true" />
+            <element signature="e#2503#3062#0" expanded="true" />
+            <element signature="e#3091#4737#0" expanded="true" />
+            <element signature="e#4771#5413#0" expanded="true" />
+            <element signature="e#5444#8540#0" expanded="true" />
+            <element signature="e#7085#7182#0" expanded="true" />
+            <element signature="e#7802#8189#0" expanded="true" />
+            <element signature="e#8572#11955#0" expanded="true" />
+            <element signature="e#9187#9418#0" expanded="true" />
+            <element signature="e#11370#11638#0" expanded="true" />
+            <element signature="e#11647#11882#0" expanded="true" />
+            <element signature="e#11986#16786#0" expanded="true" />
+            <element signature="e#13702#13830#0" expanded="true" />
+            <element signature="e#13703#13761#0" expanded="true" />
+            <element signature="e#13763#13829#0" expanded="true" />
+            <element signature="e#14099#14203#0" expanded="true" />
+            <element signature="e#15546#15616#0" expanded="true" />
+            <element signature="e#16820#18310#0" expanded="true" />
+            <element signature="e#16916#17042#0" expanded="true" />
+            <element signature="e#17257#17395#0" expanded="true" />
+            <element signature="e#18160#18262#0" expanded="true" />
+            <element signature="e#18344#22121#0" expanded="true" />
+            <element signature="e#22155#22504#0" expanded="true" />
+            <element signature="e#22541#28254#0" expanded="true" />
+            <element signature="e#24768#25117#0" expanded="true" />
+            <element signature="e#25391#25524#0" expanded="true" />
+            <element signature="e#28059#28166#0" expanded="true" />
+            <element signature="e#28288#30044#0" expanded="true" />
+            <element signature="e#30077#33511#0" expanded="true" />
+            <element signature="e#32222#32399#0" expanded="true" />
+            <element signature="e#33547#34167#0" expanded="true" />
+            <element signature="e#33621#34164#0" expanded="true" />
+            <element signature="e#34201#35240#0" expanded="true" />
+            <element signature="e#34306#35237#0" expanded="true" />
+            <element signature="e#35055#35220#0" expanded="true" />
+            <element signature="e#35271#35649#0" expanded="true" />
+            <element signature="e#35311#35646#0" expanded="true" />
+            <element signature="e#35679#35814#0" expanded="true" />
+            <element signature="e#35705#35811#0" expanded="true" />
+            <element signature="e#35844#36484#0" expanded="true" />
+            <element signature="e#35870#36481#0" expanded="true" />
+            <element signature="e#36516#37310#0" expanded="true" />
+            <element signature="e#37234#37307#0" expanded="true" />
+            <element signature="e#37339#38400#0" expanded="true" />
+            <element signature="e#37379#38397#0" expanded="true" />
+            <element signature="e#38426#38671#0" expanded="true" />
+            <element signature="e#38703#43439#0" expanded="true" />
+            <element signature="e#39626#39772#0" expanded="true" />
+            <element signature="e#40441#41708#0" expanded="true" />
+            <element signature="e#40476#40541#0" expanded="true" />
+            <element signature="e#40578#40661#0" expanded="true" />
+            <element signature="e#40747#40828#0" expanded="true" />
+            <element signature="e#40882#40950#0" expanded="true" />
+            <element signature="e#41004#41070#0" expanded="true" />
+            <element signature="e#41122#41188#0" expanded="true" />
+            <element signature="e#41242#41309#0" expanded="true" />
+            <element signature="e#41362#41446#0" expanded="true" />
+            <element signature="e#41484#41569#0" expanded="true" />
+            <element signature="e#41624#41707#0" expanded="true" />
+            <element signature="e#41714#42724#0" expanded="true" />
+            <element signature="e#41778#41889#0" expanded="true" />
+            <element signature="e#41779#41842#0" expanded="true" />
+            <element signature="e#41891#42000#0" expanded="true" />
+            <element signature="e#41922#41999#0" expanded="true" />
+            <element signature="e#42078#42191#0" expanded="true" />
+            <element signature="e#42079#42143#0" expanded="true" />
+            <element signature="e#42193#42302#0" expanded="true" />
+            <element signature="e#42224#42301#0" expanded="true" />
+            <element signature="e#42383#42495#0" expanded="true" />
+            <element signature="e#42384#42447#0" expanded="true" />
+            <element signature="e#42497#42608#0" expanded="true" />
+            <element signature="e#42529#42607#0" expanded="true" />
+            <element signature="e#42610#42723#0" expanded="true" />
+            <element signature="e#42643#42722#0" expanded="true" />
+            <element signature="e#43499#44058#0" expanded="true" />
+            <element signature="e#44092#45208#0" expanded="true" />
+            <element signature="e#44171#45205#0" expanded="true" />
+            <element signature="e#45239#46384#0" expanded="true" />
+            <element signature="e#45265#46381#0" expanded="true" />
+            <element signature="e#46413#47432#0" expanded="true" />
+            <element signature="e#47465#50984#0" expanded="true" />
+            <element signature="e#47529#50981#0" expanded="true" />
+            <element signature="e#51025#54007#0" expanded="true" />
+            <element signature="e#51177#54004#0" expanded="true" />
+            <element signature="e#51332#53016#0" expanded="true" />
+            <element signature="e#53745#53902#0" expanded="true" />
+            <element signature="e#54267#56910#0" expanded="true" />
+            <element signature="e#54718#55122#0" expanded="true" />
+            <element signature="e#55741#56891#0" expanded="true" />
+            <element signature="e#55742#55880#0" expanded="true" />
+            <element signature="e#55882#56026#0" expanded="true" />
+            <element signature="e#56028#56188#0" expanded="true" />
+            <element signature="e#56190#56336#0" expanded="true" />
+            <element signature="e#56392#56537#0" expanded="true" />
+            <element signature="e#56539#56672#0" expanded="true" />
+            <element signature="e#56753#56890#0" expanded="true" />
+            <element signature="e#56943#60356#0" expanded="true" />
+            <element signature="e#57029#59850#0" expanded="true" />
+            <element signature="e#60388#61289#0" expanded="true" />
+            <element signature="e#60433#61286#0" expanded="true" />
+            <element signature="e#61321#64428#0" expanded="true" />
+            <element signature="e#61432#64425#0" expanded="true" />
+            <element signature="e#61560#61762#0" expanded="true" />
+            <element signature="e#63752#63908#0" expanded="true" />
+            <element signature="e#63917#64073#0" expanded="true" />
+            <element signature="e#64082#64237#0" expanded="true" />
+            <element signature="e#64246#64408#0" expanded="true" />
+            <element signature="e#64483#64835#0" expanded="true" />
+            <element signature="e#65026#65464#0" expanded="true" />
+            <element signature="e#65491#66284#0" expanded="true" />
+            <element signature="e#66318#67294#0" expanded="true" />
+            <element signature="e#66370#67291#0" expanded="true" />
+            <element signature="e#67322#67999#0" expanded="true" />
+            <element signature="e#67356#67996#0" expanded="true" />
+            <element signature="e#68032#69876#0" expanded="true" />
+            <element signature="e#68094#69873#0" expanded="true" />
+            <element signature="e#70583#70737#0" expanded="true" />
+            <element signature="e#70765#70831#0" expanded="true" />
+            <element signature="e#70860#70973#0" expanded="true" />
+            <element signature="e#72278#73128#0" expanded="true" />
+            <element signature="e#72673#73111#0" expanded="true" />
+            <element signature="e#73220#73308#0" expanded="true" />
+            <element signature="e#73347#74597#0" expanded="true" />
+            <element signature="e#73693#74594#0" expanded="true" />
+            <element signature="e#74432#74564#0" expanded="true" />
+            <element signature="e#75245#75314#0" expanded="true" />
+            <element signature="e#75355#77527#0" expanded="true" />
+            <element signature="e#76419#76530#0" expanded="true" />
+            <element signature="e#76553#76666#0" expanded="true" />
+            <element signature="e#76691#76817#0" expanded="true" />
+            <element signature="e#76840#76977#0" expanded="true" />
+            <element signature="e#76997#77114#0" expanded="true" />
+            <element signature="e#77150#77239#0" expanded="true" />
+            <element signature="e#77408#77488#0" expanded="true" />
+            <element signature="e#79372#79448#0" expanded="true" />
+            <element signature="e#79398#79445#0" expanded="true" />
+            <element signature="e#79473#80047#0" expanded="true" />
+            <element signature="e#79623#80044#0" expanded="true" />
+            <element signature="e#80069#80436#0" expanded="true" />
+            <element signature="e#80105#80433#0" expanded="true" />
+            <element signature="e#80464#81312#0" expanded="true" />
+            <element signature="e#80500#81309#0" expanded="true" />
+            <element signature="e#81336#81705#0" expanded="true" />
+            <element signature="e#81388#81702#0" expanded="true" />
+            <element signature="e#81732#89229#0" expanded="true" />
+            <element signature="e#81880#89226#0" expanded="true" />
+            <element signature="e#84661#84884#0" expanded="true" />
+            <element signature="e#89252#91217#0" expanded="true" />
+            <element signature="e#89303#91214#0" expanded="true" />
+            <element signature="e#91249#93110#0" expanded="true" />
+            <element signature="e#91370#93107#0" expanded="true" />
+            <element signature="e#92294#92525#0" expanded="true" />
+            <element signature="e#93134#94113#0" expanded="true" />
+            <element signature="e#93186#94110#0" expanded="true" />
+            <element signature="e#94136#96082#0" expanded="true" />
+            <element signature="e#94189#96079#0" expanded="true" />
+            <element signature="e#96108#96438#0" expanded="true" />
+            <element signature="e#96209#96352#0" expanded="true" />
+            <element signature="e#96460#98747#0" expanded="true" />
+            <element signature="e#96486#98744#0" expanded="true" />
+            <element signature="e#98768#101052#0" expanded="true" />
+            <element signature="e#98801#101049#0" expanded="true" />
+            <element signature="e#101084#101266#0" expanded="true" />
+            <element signature="e#101294#102291#0" expanded="true" />
+            <element signature="e#101335#102288#0" expanded="true" />
+            <element signature="e#101780#101976#0" expanded="true" />
+            <element signature="e#102074#102271#0" expanded="true" />
+            <element signature="e#102316#104265#0" expanded="true" />
+            <element signature="e#102378#104114#0" expanded="true" />
+            <element signature="e#103120#103251#0" expanded="true" />
+            <element signature="e#104292#104728#0" expanded="true" />
+            <element signature="e#104344#104725#0" expanded="true" />
+            <element signature="e#104755#104897#0" expanded="true" />
+            <element signature="e#104791#104894#0" expanded="true" />
+            <element signature="e#105127#107902#0" expanded="true" />
+            <element signature="e#107963#109215#0" expanded="true" />
+            <element signature="e#109283#111509#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2799,206 +2533,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/taimi.min.js">
+    <entry file="file://$PROJECT_DIR$/partials/persons-car.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="38914" max-vertical-offset="40016">
-          <caret line="2191" column="4" selection-start-line="2191" selection-start-column="4" selection-end-line="2191" selection-end-column="4" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="713">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#404#597#0" expanded="true" />
-            <element signature="e#614#837#0" expanded="true" />
-            <element signature="e#700#833#0" expanded="true" />
-            <element signature="e#851#1257#0" expanded="true" />
-            <element signature="e#932#1213#0" expanded="true" />
-            <element signature="e#986#1206#0" expanded="true" />
-            <element signature="e#1268#1360#0" expanded="true" />
-            <element signature="e#1371#1568#0" expanded="true" />
-            <element signature="e#1579#1774#0" expanded="true" />
-            <element signature="e#1785#2492#0" expanded="true" />
-            <element signature="e#2013#2248#0" expanded="true" />
-            <element signature="e#2314#2437#0" expanded="true" />
-            <element signature="e#2503#3062#0" expanded="true" />
-            <element signature="e#3091#4737#0" expanded="true" />
-            <element signature="e#4771#5413#0" expanded="true" />
-            <element signature="e#5444#8540#0" expanded="true" />
-            <element signature="e#7085#7182#0" expanded="true" />
-            <element signature="e#7802#8189#0" expanded="true" />
-            <element signature="e#8572#11955#0" expanded="true" />
-            <element signature="e#9187#9418#0" expanded="true" />
-            <element signature="e#11370#11638#0" expanded="true" />
-            <element signature="e#11647#11882#0" expanded="true" />
-            <element signature="e#11986#16786#0" expanded="true" />
-            <element signature="e#13702#13830#0" expanded="true" />
-            <element signature="e#13703#13761#0" expanded="true" />
-            <element signature="e#13763#13829#0" expanded="true" />
-            <element signature="e#14099#14203#0" expanded="true" />
-            <element signature="e#15546#15616#0" expanded="true" />
-            <element signature="e#16820#18310#0" expanded="true" />
-            <element signature="e#16916#17042#0" expanded="true" />
-            <element signature="e#17257#17395#0" expanded="true" />
-            <element signature="e#18160#18262#0" expanded="true" />
-            <element signature="e#18344#22121#0" expanded="true" />
-            <element signature="e#22155#22504#0" expanded="true" />
-            <element signature="e#22541#28254#0" expanded="true" />
-            <element signature="e#24768#25117#0" expanded="true" />
-            <element signature="e#25391#25524#0" expanded="true" />
-            <element signature="e#28059#28166#0" expanded="true" />
-            <element signature="e#28288#30044#0" expanded="true" />
-            <element signature="e#30077#33511#0" expanded="true" />
-            <element signature="e#32222#32399#0" expanded="true" />
-            <element signature="e#33547#34167#0" expanded="true" />
-            <element signature="e#33621#34164#0" expanded="true" />
-            <element signature="e#34201#35240#0" expanded="true" />
-            <element signature="e#34306#35237#0" expanded="true" />
-            <element signature="e#35055#35220#0" expanded="true" />
-            <element signature="e#35271#35649#0" expanded="true" />
-            <element signature="e#35311#35646#0" expanded="true" />
-            <element signature="e#35679#35814#0" expanded="true" />
-            <element signature="e#35705#35811#0" expanded="true" />
-            <element signature="e#35844#36484#0" expanded="true" />
-            <element signature="e#35870#36481#0" expanded="true" />
-            <element signature="e#36516#37310#0" expanded="true" />
-            <element signature="e#37234#37307#0" expanded="true" />
-            <element signature="e#37339#38400#0" expanded="true" />
-            <element signature="e#37379#38397#0" expanded="true" />
-            <element signature="e#38426#38671#0" expanded="true" />
-            <element signature="e#38703#43439#0" expanded="true" />
-            <element signature="e#39626#39772#0" expanded="true" />
-            <element signature="e#40441#41708#0" expanded="true" />
-            <element signature="e#40476#40541#0" expanded="true" />
-            <element signature="e#40578#40661#0" expanded="true" />
-            <element signature="e#40747#40828#0" expanded="true" />
-            <element signature="e#40882#40950#0" expanded="true" />
-            <element signature="e#41004#41070#0" expanded="true" />
-            <element signature="e#41122#41188#0" expanded="true" />
-            <element signature="e#41242#41309#0" expanded="true" />
-            <element signature="e#41362#41446#0" expanded="true" />
-            <element signature="e#41484#41569#0" expanded="true" />
-            <element signature="e#41624#41707#0" expanded="true" />
-            <element signature="e#41714#42724#0" expanded="true" />
-            <element signature="e#41778#41889#0" expanded="true" />
-            <element signature="e#41779#41842#0" expanded="true" />
-            <element signature="e#41891#42000#0" expanded="true" />
-            <element signature="e#41922#41999#0" expanded="true" />
-            <element signature="e#42078#42191#0" expanded="true" />
-            <element signature="e#42079#42143#0" expanded="true" />
-            <element signature="e#42193#42302#0" expanded="true" />
-            <element signature="e#42224#42301#0" expanded="true" />
-            <element signature="e#42383#42495#0" expanded="true" />
-            <element signature="e#42384#42447#0" expanded="true" />
-            <element signature="e#42497#42608#0" expanded="true" />
-            <element signature="e#42529#42607#0" expanded="true" />
-            <element signature="e#42610#42723#0" expanded="true" />
-            <element signature="e#42643#42722#0" expanded="true" />
-            <element signature="e#43499#44058#0" expanded="true" />
-            <element signature="e#44092#45208#0" expanded="true" />
-            <element signature="e#44171#45205#0" expanded="true" />
-            <element signature="e#45239#46384#0" expanded="true" />
-            <element signature="e#45265#46381#0" expanded="true" />
-            <element signature="e#46413#47432#0" expanded="true" />
-            <element signature="e#47465#50984#0" expanded="true" />
-            <element signature="e#47529#50981#0" expanded="true" />
-            <element signature="e#51025#54007#0" expanded="true" />
-            <element signature="e#51177#54004#0" expanded="true" />
-            <element signature="e#51332#53016#0" expanded="true" />
-            <element signature="e#53745#53902#0" expanded="true" />
-            <element signature="e#54267#56910#0" expanded="true" />
-            <element signature="e#54718#55122#0" expanded="true" />
-            <element signature="e#55741#56891#0" expanded="true" />
-            <element signature="e#55742#55880#0" expanded="true" />
-            <element signature="e#55882#56026#0" expanded="true" />
-            <element signature="e#56028#56188#0" expanded="true" />
-            <element signature="e#56190#56336#0" expanded="true" />
-            <element signature="e#56392#56537#0" expanded="true" />
-            <element signature="e#56539#56672#0" expanded="true" />
-            <element signature="e#56753#56890#0" expanded="true" />
-            <element signature="e#56943#60356#0" expanded="true" />
-            <element signature="e#57029#59850#0" expanded="true" />
-            <element signature="e#60388#61289#0" expanded="true" />
-            <element signature="e#60433#61286#0" expanded="true" />
-            <element signature="e#61321#64428#0" expanded="true" />
-            <element signature="e#61432#64425#0" expanded="true" />
-            <element signature="e#61560#61762#0" expanded="true" />
-            <element signature="e#63752#63908#0" expanded="true" />
-            <element signature="e#63917#64073#0" expanded="true" />
-            <element signature="e#64082#64237#0" expanded="true" />
-            <element signature="e#64246#64408#0" expanded="true" />
-            <element signature="e#64483#64835#0" expanded="true" />
-            <element signature="e#65026#65464#0" expanded="true" />
-            <element signature="e#65491#66284#0" expanded="true" />
-            <element signature="e#66318#67294#0" expanded="true" />
-            <element signature="e#66370#67291#0" expanded="true" />
-            <element signature="e#67322#67999#0" expanded="true" />
-            <element signature="e#67356#67996#0" expanded="true" />
-            <element signature="e#68032#69876#0" expanded="true" />
-            <element signature="e#68094#69873#0" expanded="true" />
-            <element signature="e#70583#70737#0" expanded="true" />
-            <element signature="e#70765#70831#0" expanded="true" />
-            <element signature="e#70860#70973#0" expanded="true" />
-            <element signature="e#72278#73128#0" expanded="true" />
-            <element signature="e#72673#73111#0" expanded="true" />
-            <element signature="e#73220#73308#0" expanded="true" />
-            <element signature="e#73347#74597#0" expanded="true" />
-            <element signature="e#73693#74594#0" expanded="true" />
-            <element signature="e#74432#74564#0" expanded="true" />
-            <element signature="e#75245#75314#0" expanded="true" />
-            <element signature="e#75355#77527#0" expanded="true" />
-            <element signature="e#76419#76530#0" expanded="true" />
-            <element signature="e#76553#76666#0" expanded="true" />
-            <element signature="e#76691#76817#0" expanded="true" />
-            <element signature="e#76840#76977#0" expanded="true" />
-            <element signature="e#76997#77114#0" expanded="true" />
-            <element signature="e#77150#77239#0" expanded="true" />
-            <element signature="e#77408#77488#0" expanded="true" />
-            <element signature="e#79372#79448#0" expanded="true" />
-            <element signature="e#79398#79445#0" expanded="true" />
-            <element signature="e#79473#80047#0" expanded="true" />
-            <element signature="e#79623#80044#0" expanded="true" />
-            <element signature="e#80069#80436#0" expanded="true" />
-            <element signature="e#80105#80433#0" expanded="true" />
-            <element signature="e#80464#81312#0" expanded="true" />
-            <element signature="e#80500#81309#0" expanded="true" />
-            <element signature="e#81336#81705#0" expanded="true" />
-            <element signature="e#81388#81702#0" expanded="true" />
-            <element signature="e#81732#89229#0" expanded="true" />
-            <element signature="e#81880#89226#0" expanded="true" />
-            <element signature="e#84661#84884#0" expanded="true" />
-            <element signature="e#89252#91217#0" expanded="true" />
-            <element signature="e#89303#91214#0" expanded="true" />
-            <element signature="e#91249#93110#0" expanded="true" />
-            <element signature="e#91370#93107#0" expanded="true" />
-            <element signature="e#92294#92525#0" expanded="true" />
-            <element signature="e#93134#94113#0" expanded="true" />
-            <element signature="e#93186#94110#0" expanded="true" />
-            <element signature="e#94136#96082#0" expanded="true" />
-            <element signature="e#94189#96079#0" expanded="true" />
-            <element signature="e#96108#96438#0" expanded="true" />
-            <element signature="e#96209#96352#0" expanded="true" />
-            <element signature="e#96460#98747#0" expanded="true" />
-            <element signature="e#96486#98744#0" expanded="true" />
-            <element signature="e#98768#101052#0" expanded="true" />
-            <element signature="e#98801#101049#0" expanded="true" />
-            <element signature="e#101084#101266#0" expanded="true" />
-            <element signature="e#101294#102291#0" expanded="true" />
-            <element signature="e#101335#102288#0" expanded="true" />
-            <element signature="e#101780#101976#0" expanded="true" />
-            <element signature="e#102074#102271#0" expanded="true" />
-            <element signature="e#102316#104265#0" expanded="true" />
-            <element signature="e#102378#104114#0" expanded="true" />
-            <element signature="e#103120#103251#0" expanded="true" />
-            <element signature="e#104292#104728#0" expanded="true" />
-            <element signature="e#104344#104725#0" expanded="true" />
-            <element signature="e#104755#104897#0" expanded="true" />
-            <element signature="e#104791#104894#0" expanded="true" />
-            <element signature="e#105111#107886#0" expanded="true" />
-            <element signature="e#107947#109199#0" expanded="true" />
-            <element signature="e#109267#111493#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5/demos/js/jquery.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="78824">
+        <state vertical-scroll-proportion="0.0" vertical-offset="813" max-vertical-offset="1959">
+          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#127#232#0" expanded="true" />
+            <element signature="e#265#416#0" expanded="true" />
+            <element signature="e#306#413#0" expanded="true" />
+            <element signature="e#468#500#0" expanded="true" />
+            <element signature="e#611#1028#0" expanded="true" />
+            <element signature="e#726#826#0" expanded="true" />
+            <element signature="e#850#941#0" expanded="true" />
+            <element signature="e#1061#1152#0" expanded="true" />
+            <element signature="e#1185#1345#0" expanded="true" />
+            <element signature="e#1501#1869#0" expanded="true" />
+            <element signature="e#1540#1866#0" expanded="true" />
+            <element signature="e#1579#1611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93771625" vertical-offset="1294" max-vertical-offset="77582">
+          <caret line="197" column="27" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667" vertical-offset="18" max-vertical-offset="1068">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.mobile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="63380">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
