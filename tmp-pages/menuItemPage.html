@@ -1,0 +1,35 @@
+<div date-role="page" id="menuItemPage">
+    <div data-role="header">
+        <h1>{{currentItem.name}}</h1>
+        <a href="#cartPage" class="ui-btn-right cart-btn">
+            <span class="counter">{{cartCount}}</span>
+            <img src="/img/shopping-cart.png" alt="корзина"/>
+        </a>
+    </div>
+
+    <div class="ui-content" data-role="main">
+        <!--.top-item>(.trumbnail>img)+.price-->
+        <div class="top-item">
+            <div class="trumbnail"><img ng-src="img/{{currentItem.image}}" alt=""/></div>
+            <div class="price">{{currency + currentItem.price}}</div>
+        </div>
+        <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet aut cum deleniti
+            deserunt dicta doloremque enim eveniet excepturi harum, iure mollitia provident qui quos, voluptate.
+            Explicabo minima neque porro. Ab cumque debitis dolore eaque expedita harum, in obcaecati perferendis quae
+            quam quidem, quis soluta sunt tenetur velit vero vitae!
+        </div>
+        <div class="item-count">
+            <ul>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+                <li>4</li>
+                <li>5</li>
+            </ul>
+        </div>
+
+        <div class="modifiers-select">
+            
+        </div>
+    </div>
+</div>
