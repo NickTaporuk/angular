@@ -79,9 +79,64 @@ app.directive('ditMyDirective', ['$window',function (win) {
     }
 }]);*/
 var restApp = angular.module('restApp',[])
-    .controller('mailCtrl',['$scope',function($scope){
+    .factory('menuFactory',['$http','$q',function($http,$q) {
+        var menuUrl             = 'json/products.json',
+            menu                = null,
+            currentItem         = null,
+            currentItemStatus   = 'new',//new OR edit
+            currentItemAmount   = 1,
+            currency            = '';
+
+        return {
+            getmMenu:function(){
+                var deferred = $q.defer();
+                $http({method:'GET',url:menuUrl})
+                    .success(function(data){
+                        menu = data;
+                        currency = data.currency;
+                        deferred.resolve(data);
+                    })
+                    .error(function(data,status,headers,config){
+                        deferred.reject('Error in $http request');
+                        console.log('data:',data);
+                        console.log('status:',status);
+                    });
+                return deferred.promise;
+            },
+            setCurrency:function(){},
+            getCurrency:function(){
+                return currency;
+            },
+            setCurrentItem:function(item){
+                currentItem = item;
+            },
+            setCurrentItemStatus:function(status){
+                currentItemStatus = status;
+            },
+            getCurrentItemStatus:function(){
+                return currentItemStatus;
+            },
+            getCurrentItem:function(){
+                return currentItem;
+            },
+            setCurrentItemAmount:function(){
+            }
+        }
 
     }])
-    .controller('menuListCtrl',['$scope',function($scope){
+    .controller('mainCtrl',['$scope',function($scope){
 
+    }])
+    .controller('menuListCtrl',['$scope','menuFactory',function($scope,menuFactory){
+        menuFactory.getmMenu().then(function(menuObj){
+            $scope.currency = menuObj.currency;
+            $scope.products = menuObj.products;
+        });
+
+        $scope.openItem = function(item){
+            menuFactory.setCurrentItem(item);
+            menuFactory.setCurrentItemStatus('new');
+            menuFactory.setCurrentItemAmount(1);
+
+        }
     }]);

@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html ng-app="myApp" class="ng-scope">
+<html>
 <head lang="en">
     <meta charset="UTF-8">
     <title>Angular</title>
     <link rel="stylesheet" href="/css/jquery.mobile.css"/>
+    <link rel="stylesheet" href="/css/style.css"/>
     <script type="application/javascript" src="/js/jquery.js"></script>
     <script type="application/javascript" src="/js/jquery.mobile.js"></script>
     <script type="application/javascript" src="/js/angular.js"></script>
@@ -32,8 +33,12 @@
         <!--.ui-content[data-role="mail"]-->
         <div class="ui-content" data-role="main">
 
-            <ul class="menuList">
-                <li class="trumbnail"><img src="" alt=""/></li>
+            <ul class="menuList" id="menuList">
+                <li ng-repeat="item in products" class="trumbnail" ng-click="openItem(item)">
+                    <div class="trumbnail"><img ng-src="img/{{item.image}}" alt=""/></div>
+                    <div class="name">{{item.name}}</div>
+                    <div class="price">{{currency +item.price}}</div>
+                </li>
             </ul>
 
         </div>
@@ -42,5 +47,7 @@
             <h1>Rest API &copy;</h1>
         </div>
     </div>
+
+    <menu-item-page ng-controller="secondCtrl"></menu-item-page>
 </body>
 </html>
