@@ -1,6 +1,7 @@
 /**
  * Created by nick on 28.02.15.
  */
+/*
 var app = angular.module('myApp',[]);
 
 app.factory('LogService',function(){
@@ -76,4 +77,11 @@ app.directive('ditMyDirective', ['$window',function (win) {
             });
         }
     }
-}]);
+}]);*/
+var restApp = angular.module('restApp',[])
+    .controller('mailCtrl',['$scope',function($scope){
+
+    }])
+    .controller('menuListCtrl',['$scope',function($scope){
+
+    }]);
