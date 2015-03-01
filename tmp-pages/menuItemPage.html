@@ -1,4 +1,4 @@
-<div date-role="page" id="menuItemPage">
+<div data-role="page" id="menuItemPage">
     <div data-role="header">
         <h1>{{currentItem.name}}</h1>
         <a href="#cartPage" class="ui-btn-right cart-btn">
@@ -10,7 +10,9 @@
     <div class="ui-content" data-role="main">
         <!--.top-item>(.trumbnail>img)+.price-->
         <div class="top-item">
-            <div class="trumbnail"><img ng-src="img/{{currentItem.image}}" alt=""/></div>
+            <div class="trumbnail">
+                <img ng-src="img/{{currentItem.image}}" alt=""/>
+            </div>
             <div class="price">{{currency + currentItem.price}}</div>
         </div>
         <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A amet aut cum deleniti
@@ -20,16 +22,28 @@
         </div>
         <div class="item-count">
             <ul>
-                <li>1</li>
-                <li>2</li>
-                <li>3</li>
-                <li>4</li>
-                <li>5</li>
+                <li ng-class="{active:activeNum(1)}" ng-click="selectNum(1)">1</li>
+                <li ng-class="{active:activeNum(2)}" ng-click="selectNum(2)">2</li>
+                <li ng-class="{active:activeNum(3)}" ng-click="selectNum(3)">3</li>
+                <li ng-class="{active:activeNum(4)}" ng-click="selectNum(4)">4</li>
+                <li ng-class="{active:activeNum(5)}" ng-click="selectNum(5)">5</li>
             </ul>
         </div>
 
-        <div class="modifiers-select">
-            
+        <div class="modifiers-select" ng-show="currenItem.modifiers">
+            <multiple-select-widget></multiple-select-widget>
+        </div>
+
+        <!--.ui-grid-a.buttons>(.ui-block-a>a[href="#menuPage" ng-show="itemStatus == 'new'"].ui-btn.ui-btn-a.ui-shadow.ui-corner-all{Cancel}+button[data-theme="a" ng-click="removeItem()" ng-show="itemStatus=='edit'" type="button"]{Remove})+(.ui-block-b>button[data-theme="a" ng-click="addItem()" ng-show="itemStatus=='new'" type="button"]{+Add to cart}+button[data-theme="a" ng-click="saveItem()" ng-show="itemStatus=='edit'" type="button"]{Save})-->
+        <div class="ui-grid-a buttons">
+            <div class="ui-block-a">
+                <a ng-show="itemStatus == 'new'" class="ui-btn ui-btn-a ui-shadow ui-corner-all" href="#menuPage">Cancel</a>
+                <button data-theme="a" ng-click="removeItem()" ng-show="itemStatus=='edit'" type="button">Remove</button>
+            </div>
+            <div class="ui-block-b">
+                <button data-theme="a" ng-click="addItem()" ng-show="itemStatus=='new'" type="button">+Add to cart</button>
+                <button data-theme="a" ng-click="saveItem()" ng-show="itemStatus=='edit'" type="button">Save</button>
+            </div>
         </div>
     </div>
 </div>

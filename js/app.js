@@ -88,7 +88,7 @@ var restApp = angular.module('restApp',[])
             currency            = '';
 
         return {
-            getmMenu:function(){
+            getMenu:function(){
                 var deferred = $q.defer();
                 $http({method:'GET',url:menuUrl})
                     .success(function(data){
@@ -119,7 +119,11 @@ var restApp = angular.module('restApp',[])
             getCurrentItem:function(){
                 return currentItem;
             },
-            setCurrentItemAmount:function(){
+            setCurrentItemAmount:function(newCurrentItemAmount){
+                currentItemAmount = newCurrentItemAmount;
+            },
+            getCurrentItemAmount:function(){
+                return currentItemAmount ;
             }
         }
 
@@ -127,8 +131,11 @@ var restApp = angular.module('restApp',[])
     .controller('mainCtrl',['$scope',function($scope){
 
     }])
-    .controller('menuListCtrl',['$scope','menuFactory',function($scope,menuFactory){
-        menuFactory.getmMenu().then(function(menuObj){
+    .controller('secondCtrl',['$scope',function($scope){
+
+    }])
+    .controller('menuListCtrl',['$scope','$rootScope','menuFactory',function($scope,$rootScope,menuFactory){
+        menuFactory.getMenu().then(function(menuObj){
             $scope.currency = menuObj.currency;
             $scope.products = menuObj.products;
         });
@@ -138,5 +145,7 @@ var restApp = angular.module('restApp',[])
             menuFactory.setCurrentItemStatus('new');
             menuFactory.setCurrentItemAmount(1);
 
+            $rootScope.$broadcast('open-item');
+            $.mobile.changePage('#menuItemPage',{transition:'slideUp'});
         }
     }]);
