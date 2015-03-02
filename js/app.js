@@ -92,6 +92,7 @@ var restApp = angular.module('restApp',[])
                 var deferred = $q.defer();
                 $http({method:'GET',url:menuUrl})
                     .success(function(data){
+                        console.log(data);
                         menu = data;
                         currency = data.currency;
                         deferred.resolve(data);
@@ -103,12 +104,15 @@ var restApp = angular.module('restApp',[])
                     });
                 return deferred.promise;
             },
-            setCurrency:function(){},
+            setCurrency:function(){
+
+            },
             getCurrency:function(){
                 return currency;
             },
             setCurrentItem:function(item){
                 currentItem = item;
+                console.log('item:',item)
             },
             setCurrentItemStatus:function(status){
                 currentItemStatus = status;
@@ -136,6 +140,7 @@ var restApp = angular.module('restApp',[])
     }])
     .controller('menuListCtrl',['$scope','$rootScope','menuFactory',function($scope,$rootScope,menuFactory){
         menuFactory.getMenu().then(function(menuObj){
+            //console.log('menuObj:',menuObj);
             $scope.currency = menuObj.currency;
             $scope.products = menuObj.products;
         });

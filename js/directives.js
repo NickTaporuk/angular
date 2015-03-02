@@ -14,7 +14,7 @@ restApp
 
                 $scope.$on('open-item',function(event,args){
                     $scope.currentItem      = menuFactory.getCurrentItem();
-                    $scope.currency         = menuFactory.currency;
+                    $scope.currency         = menuFactory.getCurrency();
                     console.log($scope.currency);
                     $scope.selectedAmount   = menuFactory.getCurrentItemAmount();
                     $scope.itemStatus       = menuFactory.getCurrentItemStatus();
@@ -46,24 +46,37 @@ restApp
             return {
                     restrict:'E',
                     replace:true,
+                    scope:{},
                     templateUrl:'tmp-widgets/multipleSelectWidgets.html',
-                    controller:function($scope) {
-                        $('#select-modifiers').selectmenu();
-                        $scope.$on('open-item',function(event,args) {
-                            $scope.currentItem      = menuFactory.getCurrentItem();
-                            $scope.currency         = menuFactory.currency;
-                            $scope.selectedAmount   = menuFactory.getCurrentItemAmount();
-                            $scope.itemStatus       = menuFactory.getCurrentItemStatus();
+                    controller: function( $scope ) {
+                        $( '#select-modifiers' ).selectmenu();
+                        $scope.$on('open-item', function(event, args){
+                            $scope.currentItem = menuFactory.getCurrentItem();
+                            $scope.currency = menuFactory.getCurrency();
+                            $scope.currentItemStatus = menuFactory.getCurrentItemStatus();
                             $timeout(function(){
-                                if($scope.itemStatus == 'new'){
-                                    $('#select-modifier').find('option').each(function(){
+                                if ( $scope.currentItemStatus == 'new' ) {
+                                    $( '#select-modifiers' ).find('option').each(function(){
                                         $(this).removeAttr('selected');
                                     });
                                 }
-                                $('#select-modifier').selectmenu('refresh');
-                            },100);
+
+                                $( '#select-modifiers' ).selectmenu( 'refresh' );
+                            }, 100);
                         });
                     }
             }
+    }])
+
+    .directive('cartPage', ['menuFactory','$rootScope',function (menuFactory,$rootScope) {
+        return {
+            restrict:'E',
+            replace:true,
+            scope:{},
+            templateUrl:'tmp-pages/cartPage.html',
+            controller:function($scope){
+                $('#cartPage').page();
+            }
+        }
     }])
 ;

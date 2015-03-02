@@ -1,0 +1,24 @@
+<div id="cartPage" data-role="page">
+    <div data-role="header">
+        <h1>Cart</h1>
+        <a class="ui-btn-right" href="#menuPage">Menu</a>
+    </div>
+
+    <div class="ui-content" data-role="main">
+        <div class="empty-cart" ng-hide="cart">
+            Cart empty
+        </div>
+        <div class="cart-items" ng-show="cart">
+            <ul>
+                <li ng-repeat="item in cart">
+                    <div class="item">
+                        {{item.name}} x {{item.amount}}
+                        <div class="edit" ng-click="editItem(item)"><img src="img/edit.png" alt=""/></div>
+                        <div class="price">{{currency+item.price}}</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
