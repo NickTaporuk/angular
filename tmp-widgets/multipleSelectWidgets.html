@@ -1,4 +1,4 @@
 <select name="select-modifiers" id="select-modifiers" multiple="multiple" data-native-menu="false">
     <option value="">Select modifiers</option>
-    <option ng-repeat="mod in currentItem.modifiers" value="{ $index }">{{ mod.name }} {{ currency + mod.price }}</option>
+    <option ng-repeat="mod in currentItem.modifiers" value="{{ $index }}">{{ mod.name }} {{ currency + mod.price }}</option>
 </select>

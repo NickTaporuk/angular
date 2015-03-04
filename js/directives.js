@@ -2,7 +2,7 @@
  * Created by nick on 01.03.15.
  */
 restApp
-    .directive('menuItemPage', ['menuFactory',function(menuFactory) {
+    .directive('menuItemPage', ['menuFactory','cartFactory', '$rootScope',function(menuFactory,cartFactory,$rootScope) {
         return {
             restrict:'E',
             replace:true,
@@ -15,9 +15,10 @@ restApp
                 $scope.$on('open-item',function(event,args){
                     $scope.currentItem      = menuFactory.getCurrentItem();
                     $scope.currency         = menuFactory.getCurrency();
-                    console.log($scope.currency);
+                    //console.log($scope.currency);
                     $scope.selectedAmount   = menuFactory.getCurrentItemAmount();
                     $scope.itemStatus       = menuFactory.getCurrentItemStatus();
+                    $scope.cartCount        = cartFactory.getCartCount();
                 });
 
                 $scope.selectNum = function(selected){
@@ -29,7 +30,18 @@ restApp
                 }
 
                 $scope.addItem = function(){
-
+                    var modifiersList = $('#select-modifiers').val();
+                    var modifiers = [];
+                    if ( !! modifiersList && modifiersList.length > 0 ) {
+                        for(var i=0; i<modifiersList.length; i++){
+                            var modifier = $scope.currentItem.modifiers[ modifiersList[i] ];
+                            modifier.indexID = modifiersList[i];
+                            modifiers.push( modifier );
+                        }
+                    }
+                    cartFactory.addItemToCart( $scope.currentItem, $scope.selectedAmount, modifiers );
+                    $.mobile.changePage('#cartPage', {transition: "slideup"} );
+                    $rootScope.$broadcast('open-cart');
                 };
 
                 $scope.saveItem = function(){
@@ -68,14 +80,20 @@ restApp
             }
     }])
 
-    .directive('cartPage', ['menuFactory','$rootScope',function (menuFactory,$rootScope) {
+    .directive('cartPage', ['menuFactory', '$rootScope', 'cartFactory', function( menuFactory, $rootScope, cartFactory ) {
         return {
             restrict:'E',
             replace:true,
             scope:{},
             templateUrl:'tmp-pages/cartPage.html',
             controller:function($scope){
-                $('#cartPage').page();
+                $( '#cartPage' ).page();
+
+                $scope.$on('open-cart', function(event, args) {
+                    $scope.cart = cartFactory.getCart();
+                    $scope.currency = menuFactory.getCurrency();
+                    $scope.total = cartFactory.getTotal();
+                });
             }
         }
     }])
