@@ -16,5 +16,23 @@
     </div>
 
     <input type="button" value="Click" name="" ng-click="myFn()" />
+
+    <div class="ctrl1" ng-controller="ctrl1">{{data.SomeData}}</div>
+    <div class="ctrl2" ng-controller="ctrl2">
+        <input value="ChangeData" ng-click="changeData()" type="button" />
+    </div>
+
+    {{ 12 | currency}}
+    {{ 12 | number:4}}
+    {{ 'MyText' | decorator:'****'}}
+    <div>
+        <dit-user-info user="user"></dit-user-info>
+    </div>
+
+    <div>
+        <dit-user-info user="jonh"></dit-user-info>
+    </div>
+    <dit-my-directive></dit-my-directive>
+    <div class="init-dir" dit-my-directive  ></div>
 </body>
 </html>
