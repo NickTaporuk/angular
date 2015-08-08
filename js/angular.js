@@ -1593,7 +1593,7 @@ function assertArgFn(arg, name, acceptArrayAnnotation) {
 }
 
 /**
- * throw error if the name given is hasOwnProperty
+ * throw error if the name given ing-controller="mainCtrl"s hasOwnProperty
  * @param  {String} name    the name to test
  * @param  {String} context the context in which the name is used, such as module or directive
  */

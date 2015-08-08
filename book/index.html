@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>получение данных в двух контроллерах</title>
+    <script type="application/javascript" src="/js/angular.js"></script>
+    <script type="application/javascript" src="/book/js/app.js"></script>
+
+</head>
+<body ng-app="app">
+<div class="content" ng-controller="mainCtrl">
+<!--<div class="content" >-->
+    <input type="text" ng-model="person.name" name="" id=""/>
+    <h1>Hello {{person.name}}</h1>
+    <h1>Hello {{name}}</h1>
+
+    <h2>Time :{{clock}} </h2>
+
+    <button class="button" ng-click="add(1)">Add</button>
+    <a ng-click="subtract(1)">Subtarct</a>
+    <h4>Current count {{counter}}</h4>
+</div>
+
+<!--<div ng-controller="ParentController">
+    <div ng-controller="ChildController">
+        <a ng-click="sayHello()">Say hello</a>
+        {{ person }}
+    </div>
+</div>-->
+
+<div ng-controller="MyController">
+    <input ng-model="expr"
+           type="text"
+           placeholder="Enter an expression" />
+    <h2>{{ parsedValue }}</h2>
+
+    <input ng-model="to"
+           type="email"
+           placeholder="Recipient" />
+    <textarea ng-model="emailBody"></textarea>
+    <pre>{{ previewText }}</pre>
+</div>
+
+<div ng-init="phone = {value: 02}"> {{ phone.value }} </div>
+<div ng-if="true">
+    <button ng-click="phone.value = 911">change phone</button>
+</div>
+
+
+</body>
+</html>
