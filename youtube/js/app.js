@@ -89,7 +89,8 @@ youtube.directive('ditUserInfo',['$window',function($window){
             });
         },
         restrict:'AE',
-        template:'<b>{{ userInfo.name }}</b> - <b>{{ userInfo.surname }}</b>'
+        //template:'<b>{{ userInfo.name }}</b> - <b>{{ userInfo.surname }}</b>'
+        templateUrl:'/youtube/partial/user.html'
     }
 }]);
 //end create directive
