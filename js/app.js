@@ -191,7 +191,7 @@ var restApp = angular.module('restApp',[])
     .controller('secondCtrl',['$scope',function($scope){
 
     }])
-    .controller('menuListCtrl',['$scope','$rootScope','menuFactory',function($scope,$rootScope,menuFactory){
+    .controller('menuListCtrl',['$scope','$rootScope','menuFactory','$http',function($scope,$rootScope,menuFactory,$http){
         menuFactory.getMenu().then(function(menuObj){
             //console.log('menuObj:',menuObj);
             $scope.currency = menuObj.currency;
@@ -205,5 +205,17 @@ var restApp = angular.module('restApp',[])
 
             $rootScope.$broadcast('open-item');
             $.mobile.changePage('#menuItemPage',{transition:'slideUp'});
-        }
+        };
+
+        // Simple GET request example :
+        $http.post('http://phalcon.dev/api/users/4').
+            then(function(response) {
+                // this callback will be called asynchronously
+                // when the response is available
+                console.log('response:',angular.fromJson(response))
+            }, function(response) {
+                // called asynchronously if an error occurs
+                // or server returns response with an error status.
+                console.log('response-error:',response)
+            });
     }]);

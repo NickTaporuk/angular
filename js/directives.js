@@ -25,11 +25,11 @@ restApp
                     $scope.selectedAmount   = selected;
                 };
 
-                $scope.activeNum = function(num){
+                $scope.activeNum = function(num) {
                     return $scope.selectedAmount == num;
                 }
 
-                $scope.addItem = function(){
+                $scope.addItem = function() {
                     var modifiersList = $('#select-modifiers').val();
                     var modifiers = [];
                     if ( !! modifiersList && modifiersList.length > 0 ) {
@@ -62,7 +62,7 @@ restApp
                     templateUrl:'tmp-widgets/multipleSelectWidgets.html',
                     controller: function( $scope ) {
                         $( '#select-modifiers' ).selectmenu();
-                        $scope.$on('open-item', function(event, args){
+                        $scope.$on('open-item', function(event, args) {
                             $scope.currentItem = menuFactory.getCurrentItem();
                             $scope.currency = menuFactory.getCurrency();
                             $scope.currentItemStatus = menuFactory.getCurrentItemStatus();
