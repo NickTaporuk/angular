@@ -23,7 +23,7 @@ youtube.factory('AlertService', ['$window',function($window){
 //End Logging
 
 // передача данных с помощью factory obj
-//из ожного контролера в другой
+//из одного контролера в другой
 youtube.factory('DataShare',[function(){
     return {
         SomeData:'Test'
