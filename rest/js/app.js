@@ -50,23 +50,15 @@ rest.factory('DataShare',['$http',function($http) {
         getAllUsers:function(){
             var users = $http.get(usersUrl).
                 then(function (response) {
-                    // this callback will be called asynchronously
-                    // when the response is available
-                    //console.log('response:', angular.fromJson(response));
                     if (response) {
                         return angular.fromJson(response);
                     } else {
                         return {};
                     }
                 }, function (response) {
-                    // called asynchronously if an error occurs
-                    // or server returns response with an error status.
-                    //console.log('response-error:', response);
                     return {"status":false};
                 });
-            console.log('usersUrl:', usersUrl);
-
-            return users;
+            //console.log('usersUrl:', usersUrl);
 
             return users;
         }
@@ -78,16 +70,17 @@ rest.factory('DataShare',['$http',function($http) {
 
 rest.controller('usersCtrl',['$scope','DataShare','LoggingService','$http',function($scope,sharedData,logger,$http){
 
-    logger.log(angular.fromJson(sharedData.getUsers(1)),'logger->data->user:');
+    //logger.log(angular.fromJson(sharedData.getUsers(3)),'logger->data->user:');
+    logger.log(angular.fromJson(sharedData.getAllUsers()),'$scope.usersAll');
 
     $scope.users = {};
+    $scope.usersAll = {};
 
     sharedData.getUsers(1).then(function(promise) {
         $scope.users = promise;
     });
 
     sharedData.getAllUsers().then(function(promise) {
-        $scope.users.all = promise;
+        $scope.usersAll = promise;
     });
-    logger.log($scope.users.all,'$scope.users.all');
 }]);

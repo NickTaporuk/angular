@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09cbd707-7be9-4390-aeab-285a9576dc51" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest/js/app.js" afterPath="$PROJECT_DIR$/rest/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/youtube/js/app.js" afterPath="$PROJECT_DIR$/youtube/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest/index.html" afterPath="$PROJECT_DIR$/rest/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +34,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youtube/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.419354" vertical-offset="835" max-vertical-offset="1836">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state vertical-scroll-proportion="-5.225806" vertical-offset="432" max-vertical-offset="1836">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -63,21 +61,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rest/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5925927" vertical-offset="11" max-vertical-offset="612">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.63896847" vertical-offset="101" max-vertical-offset="702">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rest/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47340426" vertical-offset="1370" max-vertical-offset="1764">
-              <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1244" max-vertical-offset="1638">
+              <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -167,8 +165,8 @@
         <option value="$PROJECT_DIR$/data.json" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/youtube/js/app.js" />
-        <option value="$PROJECT_DIR$/rest/index.html" />
         <option value="$PROJECT_DIR$/rest/js/app.js" />
+        <option value="$PROJECT_DIR$/rest/index.html" />
       </list>
     </option>
   </component>
@@ -814,12 +812,12 @@
       <workItem from="1439068225329" duration="3375000" />
       <workItem from="1439325852138" duration="2168000" />
       <workItem from="1439497304974" duration="4404000" />
-      <workItem from="1439663666737" duration="10243000" />
+      <workItem from="1439663666737" duration="11705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29619000" />
+    <option name="totallyTimeSpent" value="31081000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1275,22 +1273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5925927" vertical-offset="11" max-vertical-offset="612">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youtube/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.419354" vertical-offset="835" max-vertical-offset="1836">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3421" max-vertical-offset="4032">
@@ -1299,10 +1281,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/youtube/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.225806" vertical-offset="432" max-vertical-offset="1836">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rest/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47340426" vertical-offset="1370" max-vertical-offset="1764">
-          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1244" max-vertical-offset="1638">
+          <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63896847" vertical-offset="101" max-vertical-offset="702">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding />
         </state>
       </provider>

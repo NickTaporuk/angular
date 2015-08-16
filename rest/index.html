@@ -13,6 +13,11 @@
 
         <span>Id : </span><span ng-bind="users.data.data.id"></span>
     </div>
+
+    <div>
+        <span>UsersAll:</span>
+        <span ng-repeat="allus in usersAll">{{allus[$index].id}}</span>
+    </div>
     Встроенные фильтры JSON преобразуют объект JavaScript в строку JSON. Это удобно для вывода значений Модели в DOM при разработке. Для красивого форматирования оберните фильтры JSON в тэги <pre>
     <code>
         <pre>
