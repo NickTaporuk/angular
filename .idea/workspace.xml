@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09cbd707-7be9-4390-aeab-285a9576dc51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest/js/app.js" afterPath="$PROJECT_DIR$/rest/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rest/index.html" afterPath="$PROJECT_DIR$/rest/index.html" />
     </list>
     <ignored path="angular.iws" />
@@ -64,8 +63,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rest/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63896847" vertical-offset="101" max-vertical-offset="702">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.6905444" vertical-offset="155" max-vertical-offset="810">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -812,12 +811,12 @@
       <workItem from="1439068225329" duration="3375000" />
       <workItem from="1439325852138" duration="2168000" />
       <workItem from="1439497304974" duration="4404000" />
-      <workItem from="1439663666737" duration="11705000" />
+      <workItem from="1439663666737" duration="13835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31081000" />
+    <option name="totallyTimeSpent" value="33211000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1299,8 +1298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rest/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63896847" vertical-offset="101" max-vertical-offset="702">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.6905444" vertical-offset="155" max-vertical-offset="810">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding />
         </state>
       </provider>
