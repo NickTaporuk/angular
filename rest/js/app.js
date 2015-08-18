@@ -73,6 +73,23 @@ rest.controller('usersCtrl',['$scope','DataShare','LoggingService','$http',funct
     //logger.log(angular.fromJson(sharedData.getUsers(3)),'logger->data->user:');
     logger.log(angular.fromJson(sharedData.getAllUsers()),'$scope.usersAll');
 
+    //$scope.users = {};
+    $scope.usersAll = {};
+
+    sharedData.getUsers(1).then(function(promise) {
+        $scope.users = promise;
+    });
+
+    sharedData.getAllUsers().then(function(promise) {
+        $scope.usersAll = promise;
+    });
+}]);
+
+rest.controller('streamsCtrl',['$scope','DataShare','LoggingService','$http',function($scope,sharedData,logger,$http){
+
+    //logger.log(angular.fromJson(sharedData.getUsers(3)),'logger->data->user:');
+    logger.log(angular.fromJson(sharedData.getAllUsers()),'$scope.usersAll');
+
     $scope.users = {};
     $scope.usersAll = {};
 

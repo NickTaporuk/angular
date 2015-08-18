@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
-<body ng-controller="usersCtrl">
+<body>
 
-<div class="rest">
+<div class="rest" ng-controller="usersCtrl">
     <!--{{ users.data.data.name }}-->
     <div>
         <span>Name : </span><span ng-bind="users.data.data.name "></span>
@@ -20,7 +20,7 @@
         <span>UsersAll:</span>
         <span ng-bing="usersAll" >
             <span ng-if="allus[$index].id" ng-repeat="allus in usersAll">
-                <div>{{ allus[$index].id }}</div>
+                <div ng-bind="allus[$index].id "></div>
             </span>
         </span>
     </div>
@@ -33,8 +33,13 @@
 
 </div>
 
+<div id="streams" ng-controller="streamsCtrl">
+
+</div>
 
 <script src="/bower_components/angular/angular.js"></script>
+<script src="/bower_components/sockjs/sockjs.js"></script>
 <script src="js/app.js"></script>
+<script src="js/sockjs.js"></script>
 </body>
 </html>
