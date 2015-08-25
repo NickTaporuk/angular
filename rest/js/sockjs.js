@@ -1,10 +1,10 @@
-var sock = new SockJS('http://phalcon.dev/');
+var sock = new SockJS('http://phalcon.dev:8082/data');
 sock.onopen = function() {
     console.log('open');
 };
-sock.onmessage = function(e) {
+/*sock.onmessage = function(e) {
     console.log('message', e.data);
-};
+};*/
 sock.onclose = function() {
     console.log('close');
 };

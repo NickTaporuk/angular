@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body ng-app="app">
+<div class="first" ng-controller="firstCtrl">
+    <input ng-model="myFactory.hello" type="text"/>
+    {{ myFactory.hello }}
+</div>
+
+<div class="second" ng-controller="secondCtrl">
+    <input ng-model="myFactory.hello" type="text"/>
+    {{ myFactory.hello }}
+</div>
+
+<script src="/bower_components/angular/angular.js"></script>
+<script src="js/lesson3/app.js"></script>
+</body>
+</html>
