@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <!--<link rel="stylesheet" href="/css/angular-csp.css"/>-->
+</head>
+<body ng-app="app">
+
+<div class="route">
+    <!--{{name}}-->
+
+</div>
+<div>
+    <a href="#/">Home</a>
+    <a href="#/post">Post</a>
+</div>
+
+<ng-view></ng-view>
+
+<div class="pathCtrl" ng-controller="pathCtrl">
+    {{ currentPath }}
+</div>
+
+<script src="/bower_components/lodash/lodash.js"></script>
+<script src="/bower_components/angular/angular.js"></script>
+<script src="/bower_components/angular-route/angular-route.js"></script>
+<script src="js/lesson22.Angular-route_ AngularJS/app.js"></script>
+</body>
+</html>

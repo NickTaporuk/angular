@@ -5,10 +5,36 @@
     <title>Document</title>
 </head>
 <body ng-app="app">
+<style>
+    .red {
+        color:red;
+    }
+</style>
 
 <div class="directive">Create directive</div>
+<div class="mainCtrl" ng-controller="mainCtrl" wrap-in="table">
+    <!--<form wrap-in="table" action="">-->
+    <form>
+        <div>
+            <label for="">Email</label>
+            <input type="text" placeholder="Place your email"/></div>
 
-<foo-bar></foo-bar>
+        <div>
+            <label for="">Password</label>
+            <input type="password"/>
+        </div>
+        <button>Submit</button>
+    </form>
+
+    <!--<script type="text/ng-template" id="red">-->
+    <script type="text/ng-template" id="red">
+        <div class="red"></div>
+    </script>
+
+    <script type="text/ng-template" id="table">
+        <div>Header for table</div>
+    </script>
+</div>
 
 <script src="/bower_components/angular/angular.js"></script>
 <script src="js/lesson11/app.js"></script>
