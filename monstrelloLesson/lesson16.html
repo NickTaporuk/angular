@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lesson 16 Изолированый скоуп в директивах в AngularJS</title>
+</head>
+<body ng-app="app">
+
+<div ng-controller="appCtrl">
+
+    <div >My ctrl is name <span ng-bind="name"></span><span ng-bind="color"></span></div>
+    <button class="reverse" ng-click="reverse()">Revers</button>
+    -------------------------------------
+    <foo-bar name="{{name}}" color="color" reverse="reverse()"></foo-bar>
+
+</div>
+
+<script src="/bower_components/angular/angular.js"></script>
+<script src="js/lesson16/app.js"></script>
+
+</body>
+</html>
