@@ -20,12 +20,17 @@ angular.module('app').factory('listsFactory',[function(){
     };
 
     service.addList = function(listName){
-        //console.log();
+        console.log(listName);
         lists.push({
             id: _.unique('list_'),
             listName:listName
         });
-
+        console.log('lists::',lists);
     };
+
+    service.removeList = function(list){
+        _.pull(lists,list);
+    };
+
     return service;
 }]);

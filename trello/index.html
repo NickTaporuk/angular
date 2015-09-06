@@ -20,12 +20,20 @@
 
     <section id="lists-container" class="lists-container" ng-controller="listsCtrl as listsCtrl">
         <div class="row">
-            <section class="list-inline list" ng-repeat="list in listsCtrl.lists">
+            <section class="list-inline list"
+                     ng-repeat="list in listsCtrl.lists"
+                     ng-controller="listCtrl as listCtrl">
                 <h1>{{list.listName}}</h1>
+
+
+                <a ng-click="listCtrl.removeList(list)" class="hand">
+                    <div class="remove remove-list">x</div>
+                </a>
             </section>
 
+
             <section class="list new-list list-inline">
-                <form action="" ng-submit="listsCtrl.addList()">
+                <form action="" ng-submit="listsCtrl.addList()" onsubmit="return false;">
                     <input type="text" ng-model="listsCtrl.listName"/>
                     <input type="submit" id="submit" value="Submit" />
                 </form>
@@ -35,10 +43,11 @@
 
     <script src="/bower_components/lodash/lodash.js"></script>
     <script src="/bower_components/angular/angular.js"></script>
-    <script src="/bower_components/angular-route/angular-route.js"></script>
+    <!--<script src="/bower_components/angular-route/angular-route.js"></script>-->
     <script src="js/app.js"></script>
     <!--controlers-->
     <script src="js/controllers/listsCtrl.js"></script>
+    <script src="js/controllers/listCtrl.js"></script>
     <!--factories-->
     <script src="js/factories/listsFactory.js"></script>
 </body>
